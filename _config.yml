@@ -1,13 +1,13 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
+title: Conference Deadlines for CALAS
+description: Countdowns to top conference deadlines for CALAS
 author: Abhishek Das
 
 domain: "aideadlin.es"
-baseurl: ""
+baseurl: "https://d4rkcrypto.github.io/calas-ddl/"
 
-twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+twitter_hashtag: calas
+github_username: D4rkCrypto
+github_repo: calas-ddl
 
 markdown: kramdown
 ga_id:
