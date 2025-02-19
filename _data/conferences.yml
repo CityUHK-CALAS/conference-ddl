@@ -1015,3 +1015,190 @@
   end: 2024-09-12
   sub: ML
   note: Check the conference website for tutorials, contributions to the journal track and workshop deadlines
+
+- title: CCS
+  year: 2024
+  id: ccs24
+  full_name: ACM Conference on Computer and Communications Security
+  link: https://www.sigsac.org/ccs/CCS2024/
+  deadline: '2024-06-15 23:59:59'
+  abstract_deadline: '2024-06-08 23:59:59'
+  timezone: UTC-12
+  place: Copenhagen, Denmark
+  date: October 27 - November 1, 2024
+  start: 2024-10-27
+  end: 2024-11-01
+  hindex: 131
+  sub: S&P
+  note: Highly reputed conference in security & privacy. More info at <a href="https://www.sigsac.org/ccs/CCS2024/">here</a>.
+
+- title: IEEE S&P
+  year: 2024
+  id: sp24
+  full_name: IEEE Symposium on Security and Privacy
+  link: https://www.ieee-security.org/TC/SP2024
+  deadline: '2024-10-16 23:59:59'
+  abstract_deadline: '2024-10-09 23:59:59'
+  timezone: UTC-12
+  place: San Francisco, California, USA
+  date: May 19 - May 23, 2024
+  start: 2024-05-19
+  end: 2024-05-23
+  hindex: 141
+  sub: S&P
+  note: Often referred to as the Oakland conference. More info <a href="https://www.ieee-security.org/TC/SP2024">here</a>.
+
+- title: CRYPTO
+  year: 2024
+  id: crypto24
+  full_name: International Cryptology Conference
+  link: https://www.iacr.org/conferences/crypto2024/
+  deadline: '2024-02-05 23:59:59'
+  abstract_deadline: '2024-01-29 23:59:59'
+  timezone: UTC-12
+  place: Santa Barbara, California, USA
+  date: August 18 - August 22, 2024
+  start: 2024-08-18
+  end: 2024-08-22
+  hindex: 97
+  sub: Crypto
+  note: Highly selective conference on cryptography. Organized by IACR. More info <a href="https://www.iacr.org/conferences/crypto2024/">here</a>.
+
+- title: EUROCRYPT
+  year: 2024
+  id: eurocrypt24
+  link: https://www.iacr.org/conferences/eurocrypt2024/
+  deadline: '2024-10-03 23:59:59'
+  abstract_deadline: '2024-09-26 23:59:59'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: May 12 - May 16, 2024
+  start: 2024-05-12
+  end: 2024-05-16
+  hindex: 74
+  sub: Crypto
+  note: One of the IACR flagship conferences on cryptography. More info <a href="https://www.iacr.org/conferences/eurocrypt2024/">here</a>.
+
+- title: ASPLOS
+  year: 2025
+  id: asplos25
+  link: https://asplos-conference.org/
+  deadline: '2024-09-12 23:59:59'
+  abstract_deadline: '2024-09-05 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: March 16-20, 2025
+  start: 2025-03-16
+  end: 2025-03-20
+  hindex: 134
+  sub: Arch
+  note: Covers architecture, systems, parallel/computation frameworks, etc.
+
+- title: ISCA
+  year: 2025
+  id: isca25
+  full_name: International Symposium on Computer Architecture
+  link: https://iscaconf.org/
+  deadline: '2024-11-29 23:59:59'
+  abstract_deadline: '2024-11-22 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: June 14-18, 2025
+  start: 2025-06-14
+  end: 2025-06-18
+  hindex: 147
+  sub: Arch
+  note: One of the top-tier venues on hardware & parallel architectures. More info soon.
+
+- title: PPoPP
+  year: 2025
+  id: ppopp25
+  full_name: ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming
+  link: https://ppopp-conf.org/
+  deadline: '2024-09-20 23:59:59'
+  abstract_deadline: '2024-09-13 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: March 2025
+  start: 2025-03-10
+  end: 2025-03-14
+  hindex: 69
+  sub: Arch
+  note: A top-tier parallel computing conference focusing on HPC, multi-core, memory systems, etc.
+
+- title: HPCA
+  year: 2025
+  id: hpca25
+  link: https://www.computer.org/conferences/hpca
+  deadline: '2024-08-30 23:59:59'
+  abstract_deadline: '2024-08-23 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: February 2025
+  start: 2025-02-17
+  end: 2025-02-21
+  hindex: 101
+  sub: Arch
+  note: IEEE International Symposium on High Performance Computer Architecture. 
+      Covers advanced hardware designs, HPC systems.  
+
+- title: NDSS
+  year: 2025
+  id: ndss25
+  full_name: Network and Distributed System Security Symposium
+  link: https://www.ndss-symposium.org/
+  deadline: '2024-09-05 23:59:59'
+  abstract_deadline: '2024-08-29 23:59:59'
+  timezone: UTC-12
+  place: San Diego, California, USA
+  date: February 23-26, 2025
+  start: 2025-02-23
+  end: 2025-02-26
+  hindex: 93
+  sub: S&P
+  note: One of the top security conferences focusing on network and distributed systems. More info <a href="https://www.ndss-symposium.org/">here</a>.
+
+- title: USENIX Security
+  year: 2025
+  id: usenixsec25
+  link: https://www.usenix.org/conference/usenixsecurity25
+  deadline: '2025-02-09 23:59:59'
+  abstract_deadline: '2025-02-02 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: August 2025
+  start: 2025-08-11
+  end: 2025-08-15
+  hindex: 108
+  sub: S&P
+  note: USENIX Security Symposium is a premier forum for advanced security research.
+
+- title: EuroCrypt
+  year: 2025
+  id: eurocrypt25
+  link: https://www.iacr.org/conferences/eurocrypt2025/
+  deadline: '2025-01-04 23:59:59'
+  abstract_deadline: '2024-12-28 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: May 2025
+  start: 2025-05-10
+  end: 2025-05-14
+  hindex: 74
+  sub: Crypto
+  note: Part of the IACR’s major crypto conferences. Often covers advanced cryptography, protocols, proofs.
+
+- title: ASIACRYPT
+  year: 2025
+  id: asiacrypt25
+  link: https://www.iacr.org/conferences/asiacrypt2025/
+  deadline: '2025-06-12 23:59:59'
+  abstract_deadline: '2025-06-05 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: December 2025
+  start: 2025-12-07
+  end: 2025-12-11
+  hindex: 67
+  sub: Crypto
+  note: IACR’s Asia venue focusing on cryptographic research.  

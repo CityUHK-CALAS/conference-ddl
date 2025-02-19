@@ -11,6 +11,3 @@
 - name: Architecture
   sub: Arch
   color: "#147df5"
-- name: Robotics
-  sub: RO
-  color: "#0aff99"
