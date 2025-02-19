@@ -1142,3 +1142,231 @@
   note: IACR's Asia venue focusing on cryptographic research.  
 
   
+# A-Class Journals/Conferences (Sample information for 2025; please update accordingly)
+
+- title: TOCS
+  year: 2025
+  id: tocs25
+  link: http://dblp.uni-trier.de/db/journals/tocs/
+  deadline: '2025-03-15 23:59:59'
+  abstract_deadline: '2025-03-08 23:59:59'
+  timezone: UTC-12
+  place: N/A
+  date: '2025 (year-round)'
+  start: 2025-01-01
+  end: 2025-12-31
+  hindex: 65
+  sub: Arch
+  note: >
+    ACM Transactions on Computer Systems. Covers topics such as operating systems,
+    high-performance distributed systems, storage, and more in system architecture.
+
+- title: TOS
+  year: 2025
+  id: tos25
+  link: http://dblp.uni-trier.de/db/journals/tos/
+  deadline: '2025-04-10 23:59:59'
+  abstract_deadline: '2025-04-03 23:59:59'
+  timezone: UTC-12
+  place: N/A
+  date: '2025 (year-round)'
+  start: 2025-01-01
+  end: 2025-12-31
+  hindex: 46
+  sub: Arch
+  note: >
+    ACM Transactions on Storage. Focuses on storage systems and related technologies,
+    including distributed storage, persistent memory, and more.
+
+- title: TCAD
+  year: 2025
+  id: tcad25
+  link: http://dblp.uni-trier.de/db/journals/tcad/
+  deadline: '2025-05-05 23:59:59'
+  abstract_deadline: '2025-04-28 23:59:59'
+  timezone: UTC-12
+  place: N/A
+  date: '2025 (year-round)'
+  start: 2025-01-01
+  end: 2025-12-31
+  hindex: 88
+  sub: Arch
+  note: >
+    IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
+    Publishes cutting-edge research on electronic design automation and SoC design.
+
+- title: TC
+  year: 2025
+  id: tc25
+  link: http://dblp.uni-trier.de/db/journals/tc/index.html
+  deadline: '2025-06-01 23:59:59'
+  abstract_deadline: '2025-05-25 23:59:59'
+  timezone: UTC-12
+  place: N/A
+  date: '2025 (year-round)'
+  start: 2025-01-01
+  end: 2025-12-31
+  hindex: 90
+  sub: Arch
+  note: >
+    IEEE Transactions on Computers. Encompasses a wide array of topics,
+    including computer architecture, parallel computing, security, reliability,
+    and storage systems.
+
+- title: TPDS
+  year: 2025
+  id: tpds25
+  link: http://dblp.uni-trier.de/db/journals/tpds/
+  deadline: '2025-06-15 23:59:59'
+  abstract_deadline: '2025-06-08 23:59:59'
+  timezone: UTC-12
+  place: N/A
+  date: '2025 (year-round)'
+  start: 2025-01-01
+  end: 2025-12-31
+  hindex: 119
+  sub: Arch
+  note: >
+    IEEE Transactions on Parallel and Distributed Systems.
+    Covers parallel algorithms, large-scale distributed systems,
+    high-performance computer architecture, and more.
+
+- title: TACO
+  year: 2025
+  id: taco25
+  link: http://dblp.uni-trier.de/db/journals/taco/
+  deadline: '2025-07-01 23:59:59'
+  abstract_deadline: '2025-06-24 23:59:59'
+  timezone: UTC-12
+  place: N/A
+  date: '2025 (year-round)'
+  start: 2025-01-01
+  end: 2025-12-31
+  hindex: 49
+  sub: Arch
+  note: >
+    ACM Transactions on Architecture and Code Optimization.
+    Focuses on computer architecture, compiler optimizations, and
+    high-performance computing research.
+
+# B-Class Journals/Conferences (Sample information for 2025; please update accordingly)
+
+- title: TAAS
+  year: 2025
+  id: taas25
+  link: http://dblp.uni-trier.de/db/journals/taas/
+  deadline: '2025-02-20 23:59:59'
+  abstract_deadline: '2025-02-13 23:59:59'
+  timezone: UTC-12
+  place: N/A
+  date: '2025 (year-round)'
+  start: 2025-01-01
+  end: 2025-12-31
+  hindex: 33
+  sub: Arch
+  note: >
+    ACM Transactions on Autonomous and Adaptive Systems. Covers autonomous systems,
+    adaptive systems, IoT, and more.
+
+- title: TODAES
+  year: 2025
+  id: todaes25
+  link: http://dblp.uni-trier.de/db/journals/todaes/
+  deadline: '2025-03-10 23:59:59'
+  abstract_deadline: '2025-03-03 23:59:59'
+  timezone: UTC-12
+  place: N/A
+  date: '2025 (year-round)'
+  start: 2025-01-01
+  end: 2025-12-31
+  hindex: 42
+  sub: Arch
+  note: >
+    ACM Transactions on Design Automation of Electronic Systems.
+    Focuses on EDA, embedded system design, and hardware/software co-design.
+
+- title: TECS
+  year: 2025
+  id: tecs25
+  link: http://dblp.uni-trier.de/db/journals/tecs/
+  deadline: '2025-04-05 23:59:59'
+  abstract_deadline: '2025-03-29 23:59:59'
+  timezone: UTC-12
+  place: N/A
+  date: '2025 (year-round)'
+  start: 2025-01-01
+  end: 2025-12-31
+  hindex: 54
+  sub: Arch
+  note: >
+    ACM Transactions on Embedded Computing Systems. Focuses on embedded computing,
+    real-time systems, and integrated hardware-software design aspects.
+
+- title: TRETS
+  year: 2025
+  id: trets25
+  link: http://dblp.uni-trier.de/db/journals/trets/
+  deadline: '2025-05-20 23:59:59'
+  abstract_deadline: '2025-05-13 23:59:59'
+  timezone: UTC-12
+  place: N/A
+  date: '2025 (year-round)'
+  start: 2025-01-01
+  end: 2025-12-31
+  hindex: 34
+  sub: Arch
+  note: >
+    ACM Transactions on Reconfigurable Technology and Systems.
+    Emphasizes FPGA and reconfigurable computing platforms and applications.
+
+- title: TVLSI
+  year: 2025
+  id: tvlsi25
+  link: http://dblp.uni-trier.de/db/journals/tvlsi/
+  deadline: '2025-07-10 23:59:59'
+  abstract_deadline: '2025-07-03 23:59:59'
+  timezone: UTC-12
+  place: N/A
+  date: '2025 (year-round)'
+  start: 2025-01-01
+  end: 2025-12-31
+  hindex: 64
+  sub: Arch
+  note: >
+    IEEE Transactions on Very Large Scale Integration (VLSI) Systems.
+    Focuses on VLSI design, integrated circuits, chip-level design, and more.
+
+- title: JPDC
+  year: 2025
+  id: jpdc25
+  link: http://dblp.uni-trier.de/db/journals/jpdc/
+  deadline: '2025-08-01 23:59:59'
+  abstract_deadline: '2025-07-25 23:59:59'
+  timezone: UTC-12
+  place: N/A
+  date: '2025 (year-round)'
+  start: 2025-01-01
+  end: 2025-12-31
+  hindex: 84
+  sub: Arch
+  note: >
+    Journal of Parallel and Distributed Computing.
+    Encompasses parallel computing, distributed systems, cloud computing,
+    and big data research.
+
+- title: JSA
+  year: 2025
+  id: jsa25
+  link: http://dblp.uni-trier.de/db/journals/jsa/
+  deadline: '2025-09-15 23:59:59'
+  abstract_deadline: '2025-09-08 23:59:59'
+  timezone: UTC-12
+  place: N/A
+  date: '2025 (year-round)'
+  start: 2025-01-01
+  end: 2025-12-31
+  hindex: 47
+  sub: Arch
+  note: >
+    Journal of Systems Architecture: Embedded Software Design.
+    Focuses on embedded software, hardware architecture, and application optimizations.
