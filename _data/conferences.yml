@@ -1078,69 +1078,7 @@
   hindex: 74
   sub: Crypto
   note: One of the IACR flagship conferences on cryptography. More info <a href="https://www.iacr.org/conferences/eurocrypt2024/">here</a>.
-
-- title: ASPLOS
-  year: 2025
-  id: asplos25
-  link: https://asplos-conference.org/
-  deadline: '2024-09-12 23:59:59'
-  abstract_deadline: '2024-09-05 23:59:59'
-  timezone: UTC-12
-  place: TBD
-  date: March 16-20, 2025
-  start: 2025-03-16
-  end: 2025-03-20
-  hindex: 134
-  sub: Arch
-  note: Covers architecture, systems, parallel/computation frameworks, etc.
-
-- title: ISCA
-  year: 2025
-  id: isca25
-  full_name: International Symposium on Computer Architecture
-  link: https://iscaconf.org/
-  deadline: '2024-11-29 23:59:59'
-  abstract_deadline: '2024-11-22 23:59:59'
-  timezone: UTC-12
-  place: TBD
-  date: June 14-18, 2025
-  start: 2025-06-14
-  end: 2025-06-18
-  hindex: 147
-  sub: Arch
-  note: One of the top-tier venues on hardware & parallel architectures. More info soon.
-
-- title: PPoPP
-  year: 2025
-  id: ppopp25
-  full_name: ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming
-  link: https://ppopp-conf.org/
-  deadline: '2024-09-20 23:59:59'
-  abstract_deadline: '2024-09-13 23:59:59'
-  timezone: UTC-12
-  place: TBD
-  date: March 2025
-  start: 2025-03-10
-  end: 2025-03-14
-  hindex: 69
-  sub: Arch
-  note: A top-tier parallel computing conference focusing on HPC, multi-core, memory systems, etc.
-
-- title: HPCA
-  year: 2025
-  id: hpca25
-  link: https://www.computer.org/conferences/hpca
-  deadline: '2024-08-30 23:59:59'
-  abstract_deadline: '2024-08-23 23:59:59'
-  timezone: UTC-12
-  place: TBD
-  date: February 2025
-  start: 2025-02-17
-  end: 2025-02-21
-  hindex: 101
-  sub: Arch
-  note: IEEE International Symposium on High Performance Computer Architecture. 
-      Covers advanced hardware designs, HPC systems.  
+ 
 
 - title: NDSS
   year: 2025
@@ -1186,7 +1124,7 @@
   end: 2025-05-14
   hindex: 74
   sub: Crypto
-  note: Part of the IACR’s major crypto conferences. Often covers advanced cryptography, protocols, proofs.
+  note: Part of the IACR's major crypto conferences. Often covers advanced cryptography, protocols, proofs.
 
 - title: ASIACRYPT
   year: 2025
@@ -1201,4 +1139,6 @@
   end: 2025-12-11
   hindex: 67
   sub: Crypto
-  note: IACR’s Asia venue focusing on cryptographic research.  
+  note: IACR's Asia venue focusing on cryptographic research.  
+
+  
