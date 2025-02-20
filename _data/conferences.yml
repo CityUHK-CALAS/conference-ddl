@@ -1017,36 +1017,276 @@
   note: Check the conference website for tutorials, contributions to the journal track and workshop deadlines
 
 - title: CCS
-  year: 2024
-  id: ccs24
+  year: 2025
+  id: ccs25
   full_name: ACM Conference on Computer and Communications Security
-  link: https://www.sigsac.org/ccs/CCS2024/
-  deadline: '2024-06-15 23:59:59'
-  abstract_deadline: '2024-06-08 23:59:59'
+  link: https://www.sigsac.org/ccs/CCS2025
+  deadline: '2025-04-14 23:59:59'
+  abstract_deadline: '2025-04-07 23:59:59'
   timezone: UTC-12
-  place: Copenhagen, Denmark
-  date: October 27 - November 1, 2024
-  start: 2024-10-27
-  end: 2024-11-01
-  hindex: 131
+  place: Taipei, Taiwan
+  date: October 13-17 2025
+  start: 2025-10-13
+  end: 2025-10-17
+  hindex: 39
   sub: S&P
-  note: Highly reputed conference in security & privacy. More info at <a href="https://www.sigsac.org/ccs/CCS2024/">here</a>.
+  note: A leading ACM security conference covering computer and communications security. More info <a href="https://www.sigsac.org/ccs/CCS2025">here</a>.
 
-- title: IEEE S&P
-  year: 2024
-  id: sp24
-  full_name: IEEE Symposium on Security and Privacy
-  link: https://www.ieee-security.org/TC/SP2024
-  deadline: '2024-10-16 23:59:59'
-  abstract_deadline: '2024-10-09 23:59:59'
+- title: EUROCRYPT
+  year: 2025
+  id: eurocrypt25
+  full_name: International Conference on the Theory and Applications of Cryptographic Techniques
+  link: https://eurocrypt.iacr.org/2025/
+  deadline: '2024-10-02 23:59:59'
+  abstract_deadline: '2024-10-02 23:59:59'
   timezone: UTC-12
-  place: San Francisco, California, USA
-  date: May 19 - May 23, 2024
-  start: 2024-05-19
-  end: 2024-05-23
-  hindex: 141
+  place: Madrid, Spain
+  date: May 04-08 2025
+  start: 2025-05-04
+  end: 2025-05-08
+  hindex: 46
   sub: S&P
-  note: Often referred to as the Oakland conference. More info <a href="https://www.ieee-security.org/TC/SP2024">here</a>.
+  note: A major IACR conference focusing on advances in cryptographic theory and practice. More info <a href="https://eurocrypt.iacr.org/2025/">here</a>.
+
+- title: S&P
+  year: 2025
+  id: sp25
+  full_name: IEEE Symposium on Security and Privacy
+  link: https://www.ieee-security.org/
+  deadline: '2024-11-14 23:59:59'
+  abstract_deadline: '2024-11-14 23:59:59'
+  timezone: UTC-12
+  place: THE HYATT REGENCY SAN FRANCISCO, SAN FRANCISCO, CA, USA
+  date: May 12-15 2025
+  start: 2025-05-12
+  end: 2025-05-15
+  hindex: 112
+  sub: S&P
+  note: A prestigious IEEE symposium known for foundational and innovative security/privacy work. More info <a href="https://www.ieee-security.org/">here</a>.
+
+- title: CRYPTO
+  year: 2025
+  id: crypto25
+  full_name: International Cryptology Conference
+  link: https://crypto.iacr.org/2025/
+  deadline: '2025-02-13 23:59:59'
+  abstract_deadline: '2025-02-13 23:59:59'
+  timezone: UTC-12
+  place: UC Santa Barbara, California, USA
+  date: August 17-21 2025
+  start: 2025-08-17
+  end: 2025-08-21
+  hindex: 61
+  sub: S&P
+  note: A premier IACR event dedicated to cryptology research. More info <a href="https://crypto.iacr.org/2025/">here</a>.
+
+- title: USENIX Security
+  year: 2025
+  id: usenixsec25
+  full_name: USENIX Security Symposium
+  link: https://www.usenix.org/conference/usenixsecurity25/
+  deadline: '2025-01-22 23:59:59'
+  abstract_deadline: '2025-01-22 23:59:59'
+  timezone: UTC-12
+  place: Seattle, WA, USA
+  date: August 13-15 2025
+  start: 2025-08-13
+  end: 2025-08-15
+  hindex: 106
+  sub: S&P
+  note: A top venue published by USENIX focusing on practical and advanced security research. More info <a href="https://www.usenix.org/">here</a>.
+
+- title: NDSS
+  year: 2025
+  id: ndss25
+  full_name: Network and Distributed System Security Symposium
+  link: https://www.ndss-symposium.org/
+  deadline: '2024-07-10 23:59:59'
+  abstract_deadline: '2024-07-10 23:59:59'
+  timezone: UTC-12
+  place: San Diego, California, USA
+  date: February 24-28, 2025
+  start: 2025-02-24
+  end: 2025-02-28
+  hindex: 73
+  sub: S&P
+  note: One of the top security conferences focusing on network and distributed systems. More info <a href="https://www.ndss-symposium.org/">here</a>.
+
+- title: ACSAC
+  year: 2025
+  id: acsac25
+  full_name: Annual Computer Security Applications Conference
+  link: https://www.acsac.org/
+  deadline: '2025-05-28 23:59:59'
+  abstract_deadline: '2025-05-28 23:59:59'
+  timezone: UTC-12
+  place: Hawaii, USA
+  date: December 8-12 2025
+  start: 2025-12-08
+  end: 2025-12-12
+  hindex: 76
+  sub: S&P
+  note: A well-established IEEE conference focusing on practical security solutions and applications. More info <a href="https://www.acsac.org/">here</a>.
+
+- title: ASIACRYPT
+  year: 2025
+  id: asiacrypt25
+  full_name: Annual International Conference on the Theory and Application of Cryptology and Information Security
+  link: https://iacr.org/conferences/asiacrypt2025 (placeholder, actual TBA)
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: 2025-12-07
+  end: 2025-12-11
+  hindex: 81
+  sub: S&P
+  note: One of the three flagship IACR conferences, focusing on cryptology in the Asia-Pacific region. More info <a href="https://www.iacr.org/">here</a>.
+
+- title: ESORICS
+  year: 2025
+  id: esorics25
+  full_name: European Symposium on Research in Computer Security
+  link: https://esorics2025.org/ (placeholder, actual TBA)
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: 2025-09-22
+  end: 2025-09-26
+  hindex: 65
+  sub: S&P
+  note: A major European security symposium spanning foundational and applied security research. More info <a href="https://esorics2025.org/">here</a>.
+
+- title: FSE
+  year: 2025
+  id: fse25
+  full_name: Fast Software Encryption
+  link: https://www.iacr.org/workshops/fse/ (main workshop site)
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: 2025-03-10
+  end: 2025-03-13
+  hindex: 52
+  sub: S&P
+  note: Focused on fast and secure primitives, block ciphers, stream ciphers, and hash functions. More info <a href="https://www.iacr.org/workshops/fse/">here</a>.
+
+- title: CSFW
+  year: 2025
+  id: csfw25
+  full_name: IEEE Computer Security Foundations Workshop
+  link: https://www.ieee-security.org/CSFWweb/
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: 2025-06-17
+  end: 2025-06-20
+  hindex: 46
+  sub: S&P
+  note: IEEE workshop exploring foundational security properties and formal approaches. More info <a href="https://www.ieee-security.org/CSFWweb/">here</a>.
+
+- title: SRDS
+  year: 2025
+  id: srds25
+  full_name: IEEE International Symposium on Reliable Distributed Systems
+  link: https://srdsconference.org/
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: 2025-09-29
+  end: 2025-10-02
+  hindex: 41
+  sub: S&P
+  note: A flagship IEEE symposium addressing dependability and reliability in distributed systems. More info <a href="https://srdsconference.org/">here</a>.
+
+- title: CHES
+  year: 2025
+  id: ches25
+  full_name: International Conference on Cryptographic Hardware and Embedded Systems
+  link: https://ches.iacr.org/
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: 2025-09-14
+  end: 2025-09-18
+  hindex: 65
+  sub: S&P
+  note: A top venue for hardware-based cryptography and embedded system security. More info <a href="https://ches.iacr.org/">here</a>.
+
+- title: DSN
+  year: 2025
+  id: dsn25
+  full_name: International Conference on Dependable Systems and Networks
+  link: https://dsn.org/
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: 2025-06-23
+  end: 2025-06-26
+  hindex: 56
+  sub: S&P
+  note: Joint IEEE/IFIP conference focusing on dependable and secure computing systems. More info <a href="https://dsn.org/">here</a>.
+
+- title: RAID
+  year: 2025
+  id: raid25
+  full_name: International Symposium on Recent Advances in Intrusion Detection
+  link: https://www.raid-symposium.org/
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: 2025-09-08
+  end: 2025-09-10
+  hindex: 50
+  sub: S&P
+  note: Covers cutting-edge intrusion detection and network defense topics. More info <a href="https://www.raid-symposium.org/">here</a>.
+
+- title: PKC
+  year: 2025
+  id: pkc25
+  full_name: International Workshop on Practice and Theory in Public Key Cryptography
+  link: https://www.iacr.org/workshops/pkc/ (main workshop site)
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: 2025-05-05
+  end: 2025-05-08
+  hindex: 47
+  sub: S&P
+  note: IACR workshop focusing on all aspects of public key cryptography. More info <a href="https://www.iacr.org/workshops/pkc/">here</a>.
+
+- title: TCC
+  year: 2025
+  id: tcc25
+  full_name: Theory of Cryptography Conference
+  link: https://www.iacr.org/conferences/tcc/ (main conference site)
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  start: 2025-11-17
+  end: 2025-11-20
+  hindex: 61
+  sub: S&P
+  note: Premier IACR venue focusing on the theoretical side of cryptography. More info <a href="https://www.iacr.org/conferences/tcc/">here</a>.
 
 - title: CRYPTO
   year: 2024
@@ -1078,38 +1318,6 @@
   hindex: 74
   sub: Crypto
   note: One of the IACR flagship conferences on cryptography. More info <a href="https://www.iacr.org/conferences/eurocrypt2024/">here</a>.
- 
-
-- title: NDSS
-  year: 2025
-  id: ndss25
-  full_name: Network and Distributed System Security Symposium
-  link: https://www.ndss-symposium.org/
-  deadline: '2024-09-05 23:59:59'
-  abstract_deadline: '2024-08-29 23:59:59'
-  timezone: UTC-12
-  place: San Diego, California, USA
-  date: February 23-26, 2025
-  start: 2025-02-23
-  end: 2025-02-26
-  hindex: 93
-  sub: S&P
-  note: One of the top security conferences focusing on network and distributed systems. More info <a href="https://www.ndss-symposium.org/">here</a>.
-
-- title: USENIX Security
-  year: 2025
-  id: usenixsec25
-  link: https://www.usenix.org/conference/usenixsecurity25
-  deadline: '2025-02-09 23:59:59'
-  abstract_deadline: '2025-02-02 23:59:59'
-  timezone: UTC-12
-  place: TBD
-  date: August 2025
-  start: 2025-08-11
-  end: 2025-08-15
-  hindex: 108
-  sub: S&P
-  note: USENIX Security Symposium is a premier forum for advanced security research.
 
 - title: EuroCrypt
   year: 2025
