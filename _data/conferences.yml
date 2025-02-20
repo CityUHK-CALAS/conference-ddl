@@ -1129,539 +1129,494 @@
 - title: PPoPP
   year: 2025
   id: ppopp25
-  link: http://dblp.uni-trier.de/db/conf/ppopp/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://ppopp25.sigplan.org/
+  deadline: '2024-08-16 23:59:59'
+  abstract_deadline: '2024-08-16 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
+  place: Las Vegas, NV, USA
+  date: March 1-5, 2025
   start: 2025-03-01
   end: 2025-03-05
-  hindex: 100
+  hindex: 33
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/ppopp/'>here</a>"
+  note: "Official info at <a href='https://ppopp25.sigplan.org/'>ppopp25.sigplan.org</a>"
 
 - title: FAST
   year: 2025
   id: fast25
-  link: http://dblp.uni-trier.de/db/conf/fast/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://www.usenix.org/conference/fast25
+  deadline: '2024-09-17 23:59:59'
+  abstract_deadline: '2024-09-17 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-02-10
-  end: 2025-02-14
-  hindex: 100
+  place: Santa Clara, CA, USA
+  date: February 25-27, 2025
+  start: 2025-02-25
+  end: 2025-02-17
+  hindex: 39
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/fast/'>here</a>"
+  note: "Official info at <a href='https://www.usenix.org/conference/fast25'>usenix.org/conference/fast25</a>"
 
 - title: DAC
   year: 2025
   id: dac25
-  link: https://dblp.uni-trier.de/db/conf/dac/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://www.dac.com/
+  deadline: '2024-11-19 23:59:59'
+  abstract_deadline: '2024-11-12 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-06-08
-  end: 2025-06-12
-  hindex: 100
+  place: San Francisco, CA, USA
+  date: June 22-25, 2025
+  start: 2025-06-22
+  end: 2025-06-25
+  hindex: 38
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='https://dblp.uni-trier.de/db/conf/dac/'>here</a>"
+  note: "Official info at <a href='https://www.dac.com/'>dac.com</a>"
 
 - title: HPCA
   year: 2025
   id: hpca25
-  link: http://dblp.uni-trier.de/db/conf/hpca/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://hpca-conf.org/
+  deadline: '2024-08-02 23:59:59'
+  abstract_deadline: '2024-07-26 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-03-15
-  end: 2025-03-19
-  hindex: 100
+  place: Las Vegas, NV, USA
+  date: March 01-05, 2025
+  start: 2025-03-01
+  end: 2025-03-05
+  hindex: 50
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/hpca/'>here</a>"
+  note: "Official info at <a href='https://hpca-conf.org/'>hpca-conf.org</a>"
 
 - title: MICRO
   year: 2025
   id: micro25
-  link: https://dblp.uni-trier.de/db/conf/micro/index.html
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://microarch.org/
+  deadline: '2025-04-11 23:59:59'
+  abstract_deadline: '2025-04-04 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-11-02
-  end: 2025-11-06
-  hindex: 100
+  place: Seoul, Korea
+  date: October 18-22, 2025
+  start: 2025-10-18
+  end: 2025-10-22
+  hindex: 61
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='https://dblp.uni-trier.de/db/conf/micro/index.html'>here</a>"
+  note: "Official info at <a href='https://microarch.org/'>microarch.org</a>"
 
 - title: SC
   year: 2025
   id: sc25
-  link: http://dblp.uni-trier.de/db/conf/sc/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://sc25.supercomputing.org/
+  deadline: '2025-04-07 23:59:59'
+  abstract_deadline: '2024-04-07 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
+  place: ST.LOUIS, MO, USA
+  date: November 16-21, 2025
   start: 2025-11-16
   end: 2025-11-21
-  hindex: 100
+  hindex: 50
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/sc/'>here</a>"
+  note: "Official info at <a href='https://sc25.supercomputing.org/'>supercomputing.org</a>"
 
 - title: ASPLOS
   year: 2025
   id: asplos25
-  link: http://dblp.uni-trier.de/db/conf/asplos/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://asplos-conference.org/
+  deadline: '2024-10-18 23:59:59'
+  abstract_deadline: '2024-10-11 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-03-22
-  end: 2025-03-26
-  hindex: 100
+  place: Rotterdam, The Netherlands
+  date: March 30-April 03, 2025
+  start: 2025-03-30
+  end: 2025-04-03
+  hindex: 71
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/asplos/'>here</a>"
+  note: "Official info at <a href='https://asplos-conference.org/'>asplos-conference.org</a>"
 
 - title: ISCA
   year: 2025
   id: isca25
-  link: http://dblp.uni-trier.de/db/conf/isca/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://iscaconf.org/
+  deadline: '2024-11-22 23:59:59'
+  abstract_deadline: '2024-11-15 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-06-14
-  end: 2025-06-18
-  hindex: 100
+  place: Waseda University, Tokyo, Japan
+  date: June 21-25, 2025
+  start: 2025-06-21
+  end: 2025-06-25
+  hindex: 62
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/isca/'>here</a>"
+  note: "Official info at <a href='https://iscaconf.org/'>iscaconf.org</a>"
 
 - title: USENIX ATC
   year: 2025
   id: usenixatc25
-  link: http://dblp.uni-trier.de/db/conf/usenix/index.html
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://www.usenix.org/conference/atc25
+  deadline: '2025-01-14 23:59:59'
+  abstract_deadline: '2025-01-07 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-07-09
-  end: 2025-07-11
-  hindex: 100
+  place: BOSTON, MA, USA
+  date: July 07-09, 2025
+  start: 2025-07-07
+  end: 2025-07-09
+  hindex: 55
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/usenix/index.html'>here</a>"
+  note: "Official info at <a href='https://www.usenix.org/conference/atc25'>usenix.org/conference/atc25</a>"
 
 - title: EuroSys
   year: 2025
   id: eurosys25
-  link: http://dblp.uni-trier.de/db/conf/eurosys/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://www.eurosys.org/
+  deadline: '2024-10-22 23:59:59'
+  abstract_deadline: '2024-10-15 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-04-07
-  end: 2025-04-10
-  hindex: 100
+  place: Rotterdam, The Netherlands
+  date: March 30-April 03, 2025
+  start: 2025-03-30
+  end: 2025-04-03
+  hindex: 48
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/eurosys/'>here</a>"
+  note: "Official info at <a href='https://www.eurosys.org/'>eurosys.org</a>"
 
-- title: ACM Symposium on Cloud Computing
+- title: SoCC
   year: 2025
-  id: cloud25
-  link: http://dblp.uni-trier.de/db/conf/cloud/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  id: socc25
+  link: http://acmsocc.org
+  deadline: TBD
+  abstract_deadline: TBD
   timezone: UTC-12
   place: TBD
   date: TBA 2025
-  start: 2025-10-01
-  end: 2025-10-04
-  hindex: 100
+  start: TBD
+  end: TBD
+  hindex: 34
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/cloud/'>here</a>"
+  note: "More info <a href='http://acmsocc.org/'>here</a>"
 
 - title: SPAA
   year: 2025
   id: spaa25
-  link: http://dblp.uni-trier.de/db/conf/spaa/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://spaa.acm.org/  
+  deadline: '2025-02-28 23:59:59'
+  abstract_deadline: '2025-02-21 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-07-01
-  end: 2025-07-03
-  hindex: 100
+  place: Portland, Oregon
+  date: July 18-August 01 2025
+  start: 2025-07-18
+  end: 2025-08-01
+  hindex: 22
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/spaa/'>here</a>"
+  note: "More info <a href='https://spaa.acm.org/'>here</a>"
 
 - title: PODC
   year: 2025
   id: podc25
-  link: http://dblp.uni-trier.de/db/conf/podc/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://www.podc.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2025-02-08 23:59:59'
+  abstract_deadline: '2025-02-04 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-08-05
-  end: 2025-08-08
-  hindex: 100
+  place: Huatulco, Mexico
+  date: June 16-20 2025
+  start: 2025-06-16
+  end: 2025-06-20
+  hindex: 30
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/podc/'>here</a>"
+  note: "More info <a href='https://www.podc.org/'>here</a>"
 
 - title: FPGA
   year: 2025
   id: fpga25
-  link: http://dblp.uni-trier.de/db/conf/fpga/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://www.isfpga.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2024-10-08 23:59:59'
+  abstract_deadline: '2024-10-01 23:59:59'
   timezone: UTC-12
   place: TBD
-  date: TBA 2025
-  start: 2025-02-16
-  end: 2025-02-19
-  hindex: 100
+  date: February 27-March 01 2025
+  start: 2025-02-27
+  end: 2025-03-01
+  hindex: 40
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/fpga/'>here</a>"
+  note: "More info <a href='https://www.isfpga.org/'>here</a>"
 
 - title: CGO
   year: 2025
   id: cgo25
-  link: http://dblp.uni-trier.de/db/conf/cgo/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://cgo.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2024-09-12 23:59:59'
+  abstract_deadline: '2024-09-12 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-02-22
-  end: 2025-02-26
-  hindex: 100
+  place: Las Vegas, USA
+  date: March 01-05 2025
+  start: 2025-03-01
+  end: 2025-03-05
+  hindex: 25
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/cgo/'>here</a>"
+  note: "More info <a href='https://cgo.org/'>here</a>"
 
 - title: DATE
   year: 2025
   id: date25
-  link: http://dblp.uni-trier.de/db/conf/date/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://date-conference.com/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2024-09-22 23:59:59'
+  abstract_deadline: '2024-09-15 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-03-24
-  end: 2025-03-28
-  hindex: 100
+  place: Palais des congrès de Lyon, Lyon, France
+  date: March 31-April 02 2025
+  start: 2025-03-31
+  end: 2025-04-02
+  hindex: 46
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/date/'>here</a>"
+  note: "More info <a href='https://date-conference.com/'>here</a>"
 
 - title: HOT CHIPS
   year: 2025
   id: hotchips25
-  link: https://dblp.org/db/conf/hotchips/index.html
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://hotchips.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2025-03-28 23:59:59'
+  abstract_deadline: '2025-03-28 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-08-16
-  end: 2025-08-19
-  hindex: 100
+  place: Memorial Auditorium, Stanford, Palo Alto, CA, USA
+  date: August 24-26 2025
+  start: 2025-08-24
+  end: 2025-08-26
+  hindex: 25
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='https://dblp.org/db/conf/hotchips/index.html'>here</a>"
+  note: "More info <a href='https://hotchips.org/'>here</a>"
 
 - title: CLUSTER
   year: 2025
   id: cluster25
-  link: https://dblp.uni-trier.de/db/conf/cluster/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://clustercomp.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2025-04-25 23:59:59'
+  abstract_deadline: '2025-02-03 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-09-08
-  end: 2025-09-11
-  hindex: 100
+  place: Edinburgh, Scotland
+  date: September 02-05 2025
+  start: 2025-09-02
+  end: 2025-09-05
+  hindex: 22
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='https://dblp.uni-trier.de/db/conf/cluster/'>here</a>"
+  note: "More info <a href='https://clustercomp.org/'>here</a>"
 
 - title: ICCD
   year: 2025
   id: iccd25
-  link: http://dblp.uni-trier.de/db/conf/iccd/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://iccd-conference.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2025-05-11 23:59:59'
+  abstract_deadline: '2025-05-04 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-10-05
-  end: 2025-10-08
-  hindex: 100
+  place: Dallas, USA
+  date: November 10-12 2025
+  start: 2025-11-10
+  end: 2025-11-12
+  hindex: 21
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/iccd/'>here</a>"
+  note: "More info <a href='https://iccd-conference.org/'>here</a>"
 
 - title: ICCAD
   year: 2025
   id: iccad25
-  link: http://dblp.uni-trier.de/db/conf/iccad/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://iccad.com/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2025-04-21 23:59:59'
+  abstract_deadline: '2025-04-14 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-11-03
-  end: 2025-11-07
-  hindex: 100
+  place: Munich, Germany
+  date: October 26-30 2025
+  start: 2025-10-26
+  end: 2025-10-30
+  hindex: 41
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/iccad/'>here</a>"
+  note: "Abstract deadline on April 14, 2025. More info <a href='https://iccad.com/'>here</a>"
 
 - title: ICDCS
   year: 2025
   id: icdcs25
-  link: http://dblp.uni-trier.de/db/conf/icdcs/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://icdcs2025.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2024-12-18 23:59:59'
+  abstract_deadline: '2024-12-11 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-06-30
-  end: 2025-07-03
-  hindex: 100
+  place: Glasgow, Scotland, UK
+  date: July 20-23 2025
+  start: 2025-07-20
+  end: 2025-07-23
+  hindex: 48
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/icdcs/'>here</a>"
+  note: "More info <a href='https://icdcs2025.org/'>here</a>"
 
 - title: CODES+ISSS
   year: 2025
   id: codesisss25
-  link: https://dblp.uni-trier.de/db/conf/codesisss/index.html
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://codes-isss.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2025-03-30 23:59:59'
+  abstract_deadline: '2025-03-23 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-09-20
-  end: 2025-09-23
-  hindex: 100
+  place: Taipei, Taiwan
+  date: September 28-October 03 2025
+  start: 2025-09-28
+  end: 2025-10-03
+  hindex: 5
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='https://dblp.uni-trier.de/db/conf/codesisss/index.html'>here</a>"
+  note: "More info <a href='https://codes-isss.org/'>here</a>"
 
 - title: HiPEAC
   year: 2025
   id: hipeac25
-  link: http://dblp.uni-trier.de/db/conf/hipeac/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://www.hipeac.net/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2024-06-01 23:59:59'
+  abstract_deadline: '2024-06-01 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
+  place: Barcelona, Spain
+  date: January 20-21 2025
   start: 2025-01-20
-  end: 2025-01-22
-  hindex: 100
+  end: 2025-01-21
+  hindex: 10
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/hipeac/'>here</a>"
+  note: "More info <a href='https://www.hipeac.net/'>here</a>"
 
-- title: SIGMETRICS (Performance)
+- title: ACM SIGMETRICS (Performance)
   year: 2025
   id: sigmetrics25
-  link: http://dblp.uni-trier.de/db/conf/sigmetrics/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://www.sigmetrics.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2025-01-22 23:59:59'
+  abstract_deadline: '2025-01-15 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-06-02
-  end: 2025-06-06
-  hindex: 100
+  place: Stony Brook, New York, USA
+  date: June 09-13 2025
+  start: 2025-06-09
+  end: 2025-06-13
+  hindex: 40
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/sigmetrics/'>here</a>"
+  note: "More info <a href='https://www.sigmetrics.org/'>here</a>"
 
 - title: PACT
   year: 2025
   id: pact25
-  link: http://dblp.uni-trier.de/db/conf/IEEEpact/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://pactconf.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: TBD
+  abstract_deadline: TBD
   timezone: UTC-12
   place: TBD
   date: TBA 2025
-  start: 2025-09-13
-  end: 2025-09-17
-  hindex: 100
+  start: TBD
+  end: TBD
+  hindex: 21
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/IEEEpact/'>here</a>"
+  note: "More info <a href='https://pactconf.org/'>here</a>"
 
 - title: ICPP
   year: 2025
   id: icpp25
-  link: http://dblp.uni-trier.de/db/conf/icpp/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://icpp-conf.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: TBD
+  abstract_deadline: TBD
   timezone: UTC-12
   place: TBD
   date: TBA 2025
-  start: 2025-08-25
-  end: 2025-08-28
-  hindex: 100
+  start: TBD
+  end: TBD
+  hindex: 24
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/icpp/'>here</a>"
+  note: "More info <a href='https://icpp-conf.org/'>here</a>"
 
 - title: ICS
   year: 2025
   id: ics25
-  link: http://dblp.uni-trier.de/db/conf/ics/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://www.ics-conference.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2025-02-27 23:59:59'
+  abstract_deadline: '2025-02-24 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-06-24
-  end: 2025-06-27
-  hindex: 100
+  place: Salt Lake City, USA
+  date: June 08-11 2025
+  start: 2025-06-08
+  end: 2025-06-11
+  hindex: 26
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/ics/'>here</a>"
-
-- title: VEE
-  year: 2025
-  id: vee25
-  link: http://dblp.uni-trier.de/db/conf/vee/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
-  timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-03-29
-  end: 2025-03-31
-  hindex: 100
-  sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/vee/'>here</a>"
+  note: "More info <a href='https://www.ics-conference.org/'>here</a>"
 
 - title: IPDPS
   year: 2025
   id: ipdps25
-  link: http://dblp.uni-trier.de/db/conf/ipps/
+  link: https://www.ipdps.org/  # Changed to official website if known, otherwise left as TBD
   deadline: '2024-10-10 23:59:59'
   abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
+  place: Milan, Italy
+  date: June 03-07 2025
   start: 2025-05-19
   end: 2025-05-23
-  hindex: 100
+  hindex: 38
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/ipps/'>here</a>"
-
-- title: Performance (Int'l Symp. on Computer Performance)
-  year: 2025
-  id: performance25
-  link: http://dblp.uni-trier.de/db/conf/performance/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
-  timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-11-10
-  end: 2025-11-14
-  hindex: 100
-  sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/performance/'>here</a>"
+  note: "More info <a href='https://www.ipdps.org/'>here</a>"
 
 - title: HPDC
   year: 2025
   id: hpdc25
-  link: http://dblp.uni-trier.de/db/conf/hpdc/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://hpdc.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2025-02-06 23:59:59'
+  abstract_deadline: '2025-02-06 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-06-11
-  end: 2025-06-14
-  hindex: 100
+  place: Notre Dame, IN, USA
+  date: July 20-23 2025
+  start: 2025-07-20
+  end: 2025-07-23
+  hindex: 69
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/hpdc/'>here</a>"
+  note: "More info <a href='https://hpdc.org/'>here</a>"
 
 - title: ITC
   year: 2025
   id: itc25
-  link: http://dblp.uni-trier.de/db/conf/itc/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://tttc.ieee.org/itc  # Changed to official website if known, otherwise left as TBD
+  deadline: '2025-03-21 23:59:59'
+  abstract_deadline: '2025-03-07 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
+  place: San Diego, California, USA
+  date: September 21-26 2025
   start: 2025-09-21
-  end: 2025-09-25
-  hindex: 100
+  end: 2025-09-26
+  hindex: 18
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/itc/'>here</a>"
-
-- title: LISA
-  year: 2025
-  id: lisa25
-  link: http://dblp.uni-trier.de/db/conf/lisa/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
-  timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-12-01
-  end: 2025-12-05
-  hindex: 100
-  sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/lisa/'>here</a>"
+  note: "More info <a href='https://tttc.ieee.org/itc'>here</a>"
 
 - title: MSST
   year: 2025
   id: msst25
-  link: http://dblp.uni-trier.de/db/conf/mss/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://storageconference.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: TBD
+  abstract_deadline: TBD
   timezone: UTC-12
   place: TBD
   date: TBA 2025
-  start: 2025-06-16
-  end: 2025-06-20
-  hindex: 100
+  start: TBD
+  end: TBD
+  hindex: 35
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/mss/'>here</a>"
+  note: "More info <a href='https://storageconference.org/'>here</a>"
 
 - title: RTAS
   year: 2025
   id: rtas25
-  link: http://dblp.uni-trier.de/db/conf/rtas/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://www.2025.rtas.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2024-11-14 23:59:59'
+  abstract_deadline: '2024-11-14 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: 2025-04-21
-  end: 2025-04-24
-  hindex: 100
+  place: Irvine, USA
+  date: May 06-09 2025
+  start: 2025-05-06
+  end: 2025-05-09
+  hindex: 28
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/rtas/'>here</a>"
+  note: "More info <a href='https://www.2025.rtas.org/'>here</a>"
 
 - title: Euro-Par
   year: 2025
   id: europar25
-  link: http://dblp.uni-trier.de/db/conf/europar/
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  link: https://www.europar.org/  # Changed to official website if known, otherwise left as TBD
+  deadline: '2025-03-09 23:59:59'
+  abstract_deadline: '2025-02-24 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBA 2025
+  place: Dresden, Germany
+  date: August 25-29 2025
   start: 2025-08-25
   end: 2025-08-29
-  hindex: 100
+  hindex: 14
   sub: Arch
-  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/europar/'>here</a>"
+  note: "Abstract deadline on February 24, 2025. More info <a href='https://www.europar.org/'>here</a>"
