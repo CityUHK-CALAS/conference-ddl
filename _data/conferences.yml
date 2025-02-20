@@ -1126,247 +1126,542 @@
   sub: Crypto
   note: Part of the IACR's major crypto conferences. Often covers advanced cryptography, protocols, proofs.
 
-- title: ASIACRYPT
+- title: PPoPP
   year: 2025
-  id: asiacrypt25
-  link: https://www.iacr.org/conferences/asiacrypt2025/
-  deadline: '2025-06-12 23:59:59'
-  abstract_deadline: '2025-06-05 23:59:59'
+  id: ppopp25
+  link: http://dblp.uni-trier.de/db/conf/ppopp/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
   place: TBD
-  date: December 2025
-  start: 2025-12-07
-  end: 2025-12-11
-  hindex: 67
-  sub: Crypto
-  note: IACR's Asia venue focusing on cryptographic research.  
-
-  
-# A-Class Journals/Conferences (Sample information for 2025; please update accordingly)
-
-- title: TOCS
-  year: 2025
-  id: tocs25
-  link: http://dblp.uni-trier.de/db/journals/tocs/
-  deadline: '2025-03-15 23:59:59'
-  abstract_deadline: '2025-03-08 23:59:59'
-  timezone: UTC-12
-  place: N/A
-  date: '2025 (year-round)'
-  start: 2025-01-01
-  end: 2025-12-31
-  hindex: 65
+  date: TBA 2025
+  start: 2025-03-01
+  end: 2025-03-05
+  hindex: 100
   sub: Arch
-  note: >
-    ACM Transactions on Computer Systems. Covers topics such as operating systems,
-    high-performance distributed systems, storage, and more in system architecture.
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/ppopp/'>here</a>"
 
-- title: TOS
+- title: FAST
   year: 2025
-  id: tos25
-  link: http://dblp.uni-trier.de/db/journals/tos/
-  deadline: '2025-04-10 23:59:59'
-  abstract_deadline: '2025-04-03 23:59:59'
+  id: fast25
+  link: http://dblp.uni-trier.de/db/conf/fast/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
-  place: N/A
-  date: '2025 (year-round)'
-  start: 2025-01-01
-  end: 2025-12-31
-  hindex: 46
+  place: TBD
+  date: TBA 2025
+  start: 2025-02-10
+  end: 2025-02-14
+  hindex: 100
   sub: Arch
-  note: >
-    ACM Transactions on Storage. Focuses on storage systems and related technologies,
-    including distributed storage, persistent memory, and more.
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/fast/'>here</a>"
 
-- title: TCAD
+- title: DAC
   year: 2025
-  id: tcad25
-  link: http://dblp.uni-trier.de/db/journals/tcad/
-  deadline: '2025-05-05 23:59:59'
-  abstract_deadline: '2025-04-28 23:59:59'
+  id: dac25
+  link: https://dblp.uni-trier.de/db/conf/dac/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
-  place: N/A
-  date: '2025 (year-round)'
-  start: 2025-01-01
-  end: 2025-12-31
-  hindex: 88
+  place: TBD
+  date: TBA 2025
+  start: 2025-06-08
+  end: 2025-06-12
+  hindex: 100
   sub: Arch
-  note: >
-    IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
-    Publishes cutting-edge research on electronic design automation and SoC design.
+  note: "Abstract deadline on October 3, 2024. More info <a href='https://dblp.uni-trier.de/db/conf/dac/'>here</a>"
 
-- title: TC
+- title: HPCA
   year: 2025
-  id: tc25
-  link: http://dblp.uni-trier.de/db/journals/tc/index.html
-  deadline: '2025-06-01 23:59:59'
-  abstract_deadline: '2025-05-25 23:59:59'
+  id: hpca25
+  link: http://dblp.uni-trier.de/db/conf/hpca/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
-  place: N/A
-  date: '2025 (year-round)'
-  start: 2025-01-01
-  end: 2025-12-31
-  hindex: 90
+  place: TBD
+  date: TBA 2025
+  start: 2025-03-15
+  end: 2025-03-19
+  hindex: 100
   sub: Arch
-  note: >
-    IEEE Transactions on Computers. Encompasses a wide array of topics,
-    including computer architecture, parallel computing, security, reliability,
-    and storage systems.
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/hpca/'>here</a>"
 
-- title: TPDS
+- title: MICRO
   year: 2025
-  id: tpds25
-  link: http://dblp.uni-trier.de/db/journals/tpds/
-  deadline: '2025-06-15 23:59:59'
-  abstract_deadline: '2025-06-08 23:59:59'
+  id: micro25
+  link: https://dblp.uni-trier.de/db/conf/micro/index.html
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
-  place: N/A
-  date: '2025 (year-round)'
-  start: 2025-01-01
-  end: 2025-12-31
-  hindex: 119
+  place: TBD
+  date: TBA 2025
+  start: 2025-11-02
+  end: 2025-11-06
+  hindex: 100
   sub: Arch
-  note: >
-    IEEE Transactions on Parallel and Distributed Systems.
-    Covers parallel algorithms, large-scale distributed systems,
-    high-performance computer architecture, and more.
+  note: "Abstract deadline on October 3, 2024. More info <a href='https://dblp.uni-trier.de/db/conf/micro/index.html'>here</a>"
 
-- title: TACO
+- title: SC
   year: 2025
-  id: taco25
-  link: http://dblp.uni-trier.de/db/journals/taco/
-  deadline: '2025-07-01 23:59:59'
-  abstract_deadline: '2025-06-24 23:59:59'
+  id: sc25
+  link: http://dblp.uni-trier.de/db/conf/sc/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
-  place: N/A
-  date: '2025 (year-round)'
-  start: 2025-01-01
-  end: 2025-12-31
-  hindex: 49
+  place: TBD
+  date: TBA 2025
+  start: 2025-11-16
+  end: 2025-11-21
+  hindex: 100
   sub: Arch
-  note: >
-    ACM Transactions on Architecture and Code Optimization.
-    Focuses on computer architecture, compiler optimizations, and
-    high-performance computing research.
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/sc/'>here</a>"
 
-# B-Class Journals/Conferences (Sample information for 2025; please update accordingly)
-
-- title: TAAS
+- title: ASPLOS
   year: 2025
-  id: taas25
-  link: http://dblp.uni-trier.de/db/journals/taas/
-  deadline: '2025-02-20 23:59:59'
-  abstract_deadline: '2025-02-13 23:59:59'
+  id: asplos25
+  link: http://dblp.uni-trier.de/db/conf/asplos/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
-  place: N/A
-  date: '2025 (year-round)'
-  start: 2025-01-01
-  end: 2025-12-31
-  hindex: 33
+  place: TBD
+  date: TBA 2025
+  start: 2025-03-22
+  end: 2025-03-26
+  hindex: 100
   sub: Arch
-  note: >
-    ACM Transactions on Autonomous and Adaptive Systems. Covers autonomous systems,
-    adaptive systems, IoT, and more.
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/asplos/'>here</a>"
 
-- title: TODAES
+- title: ISCA
   year: 2025
-  id: todaes25
-  link: http://dblp.uni-trier.de/db/journals/todaes/
-  deadline: '2025-03-10 23:59:59'
-  abstract_deadline: '2025-03-03 23:59:59'
+  id: isca25
+  link: http://dblp.uni-trier.de/db/conf/isca/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
-  place: N/A
-  date: '2025 (year-round)'
-  start: 2025-01-01
-  end: 2025-12-31
-  hindex: 42
+  place: TBD
+  date: TBA 2025
+  start: 2025-06-14
+  end: 2025-06-18
+  hindex: 100
   sub: Arch
-  note: >
-    ACM Transactions on Design Automation of Electronic Systems.
-    Focuses on EDA, embedded system design, and hardware/software co-design.
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/isca/'>here</a>"
 
-- title: TECS
+- title: USENIX ATC
   year: 2025
-  id: tecs25
-  link: http://dblp.uni-trier.de/db/journals/tecs/
-  deadline: '2025-04-05 23:59:59'
-  abstract_deadline: '2025-03-29 23:59:59'
+  id: usenixatc25
+  link: http://dblp.uni-trier.de/db/conf/usenix/index.html
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
-  place: N/A
-  date: '2025 (year-round)'
-  start: 2025-01-01
-  end: 2025-12-31
-  hindex: 54
+  place: TBD
+  date: TBA 2025
+  start: 2025-07-09
+  end: 2025-07-11
+  hindex: 100
   sub: Arch
-  note: >
-    ACM Transactions on Embedded Computing Systems. Focuses on embedded computing,
-    real-time systems, and integrated hardware-software design aspects.
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/usenix/index.html'>here</a>"
 
-- title: TRETS
+- title: EuroSys
   year: 2025
-  id: trets25
-  link: http://dblp.uni-trier.de/db/journals/trets/
-  deadline: '2025-05-20 23:59:59'
-  abstract_deadline: '2025-05-13 23:59:59'
+  id: eurosys25
+  link: http://dblp.uni-trier.de/db/conf/eurosys/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
-  place: N/A
-  date: '2025 (year-round)'
-  start: 2025-01-01
-  end: 2025-12-31
-  hindex: 34
+  place: TBD
+  date: TBA 2025
+  start: 2025-04-07
+  end: 2025-04-10
+  hindex: 100
   sub: Arch
-  note: >
-    ACM Transactions on Reconfigurable Technology and Systems.
-    Emphasizes FPGA and reconfigurable computing platforms and applications.
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/eurosys/'>here</a>"
 
-- title: TVLSI
+- title: ACM Symposium on Cloud Computing
   year: 2025
-  id: tvlsi25
-  link: http://dblp.uni-trier.de/db/journals/tvlsi/
-  deadline: '2025-07-10 23:59:59'
-  abstract_deadline: '2025-07-03 23:59:59'
+  id: cloud25
+  link: http://dblp.uni-trier.de/db/conf/cloud/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
-  place: N/A
-  date: '2025 (year-round)'
-  start: 2025-01-01
-  end: 2025-12-31
-  hindex: 64
+  place: TBD
+  date: TBA 2025
+  start: 2025-10-01
+  end: 2025-10-04
+  hindex: 100
   sub: Arch
-  note: >
-    IEEE Transactions on Very Large Scale Integration (VLSI) Systems.
-    Focuses on VLSI design, integrated circuits, chip-level design, and more.
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/cloud/'>here</a>"
 
-- title: JPDC
+- title: SPAA
   year: 2025
-  id: jpdc25
-  link: http://dblp.uni-trier.de/db/journals/jpdc/
-  deadline: '2025-08-01 23:59:59'
-  abstract_deadline: '2025-07-25 23:59:59'
+  id: spaa25
+  link: http://dblp.uni-trier.de/db/conf/spaa/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
-  place: N/A
-  date: '2025 (year-round)'
-  start: 2025-01-01
-  end: 2025-12-31
-  hindex: 84
+  place: TBD
+  date: TBA 2025
+  start: 2025-07-01
+  end: 2025-07-03
+  hindex: 100
   sub: Arch
-  note: >
-    Journal of Parallel and Distributed Computing.
-    Encompasses parallel computing, distributed systems, cloud computing,
-    and big data research.
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/spaa/'>here</a>"
 
-- title: JSA
+- title: PODC
   year: 2025
-  id: jsa25
-  link: http://dblp.uni-trier.de/db/journals/jsa/
-  deadline: '2025-09-15 23:59:59'
-  abstract_deadline: '2025-09-08 23:59:59'
+  id: podc25
+  link: http://dblp.uni-trier.de/db/conf/podc/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
   timezone: UTC-12
-  place: N/A
-  date: '2025 (year-round)'
-  start: 2025-01-01
-  end: 2025-12-31
-  hindex: 47
+  place: TBD
+  date: TBA 2025
+  start: 2025-08-05
+  end: 2025-08-08
+  hindex: 100
   sub: Arch
-  note: >
-    Journal of Systems Architecture: Embedded Software Design.
-    Focuses on embedded software, hardware architecture, and application optimizations.
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/podc/'>here</a>"
+
+- title: FPGA
+  year: 2025
+  id: fpga25
+  link: http://dblp.uni-trier.de/db/conf/fpga/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-02-16
+  end: 2025-02-19
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/fpga/'>here</a>"
+
+- title: CGO
+  year: 2025
+  id: cgo25
+  link: http://dblp.uni-trier.de/db/conf/cgo/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-02-22
+  end: 2025-02-26
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/cgo/'>here</a>"
+
+- title: DATE
+  year: 2025
+  id: date25
+  link: http://dblp.uni-trier.de/db/conf/date/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-03-24
+  end: 2025-03-28
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/date/'>here</a>"
+
+- title: HOT CHIPS
+  year: 2025
+  id: hotchips25
+  link: https://dblp.org/db/conf/hotchips/index.html
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-08-16
+  end: 2025-08-19
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='https://dblp.org/db/conf/hotchips/index.html'>here</a>"
+
+- title: CLUSTER
+  year: 2025
+  id: cluster25
+  link: https://dblp.uni-trier.de/db/conf/cluster/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-09-08
+  end: 2025-09-11
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='https://dblp.uni-trier.de/db/conf/cluster/'>here</a>"
+
+- title: ICCD
+  year: 2025
+  id: iccd25
+  link: http://dblp.uni-trier.de/db/conf/iccd/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-10-05
+  end: 2025-10-08
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/iccd/'>here</a>"
+
+- title: ICCAD
+  year: 2025
+  id: iccad25
+  link: http://dblp.uni-trier.de/db/conf/iccad/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-11-03
+  end: 2025-11-07
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/iccad/'>here</a>"
+
+- title: ICDCS
+  year: 2025
+  id: icdcs25
+  link: http://dblp.uni-trier.de/db/conf/icdcs/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-06-30
+  end: 2025-07-03
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/icdcs/'>here</a>"
+
+- title: CODES+ISSS
+  year: 2025
+  id: codesisss25
+  link: https://dblp.uni-trier.de/db/conf/codesisss/index.html
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-09-20
+  end: 2025-09-23
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='https://dblp.uni-trier.de/db/conf/codesisss/index.html'>here</a>"
+
+- title: HiPEAC
+  year: 2025
+  id: hipeac25
+  link: http://dblp.uni-trier.de/db/conf/hipeac/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-01-20
+  end: 2025-01-22
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/hipeac/'>here</a>"
+
+- title: SIGMETRICS (Performance)
+  year: 2025
+  id: sigmetrics25
+  link: http://dblp.uni-trier.de/db/conf/sigmetrics/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-06-02
+  end: 2025-06-06
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/sigmetrics/'>here</a>"
+
+- title: PACT
+  year: 2025
+  id: pact25
+  link: http://dblp.uni-trier.de/db/conf/IEEEpact/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-09-13
+  end: 2025-09-17
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/IEEEpact/'>here</a>"
+
+- title: ICPP
+  year: 2025
+  id: icpp25
+  link: http://dblp.uni-trier.de/db/conf/icpp/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-08-25
+  end: 2025-08-28
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/icpp/'>here</a>"
+
+- title: ICS
+  year: 2025
+  id: ics25
+  link: http://dblp.uni-trier.de/db/conf/ics/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-06-24
+  end: 2025-06-27
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/ics/'>here</a>"
+
+- title: VEE
+  year: 2025
+  id: vee25
+  link: http://dblp.uni-trier.de/db/conf/vee/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-03-29
+  end: 2025-03-31
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/vee/'>here</a>"
+
+- title: IPDPS
+  year: 2025
+  id: ipdps25
+  link: http://dblp.uni-trier.de/db/conf/ipps/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-05-19
+  end: 2025-05-23
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/ipps/'>here</a>"
+
+- title: Performance (Int'l Symp. on Computer Performance)
+  year: 2025
+  id: performance25
+  link: http://dblp.uni-trier.de/db/conf/performance/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-11-10
+  end: 2025-11-14
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/performance/'>here</a>"
+
+- title: HPDC
+  year: 2025
+  id: hpdc25
+  link: http://dblp.uni-trier.de/db/conf/hpdc/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-06-11
+  end: 2025-06-14
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/hpdc/'>here</a>"
+
+- title: ITC
+  year: 2025
+  id: itc25
+  link: http://dblp.uni-trier.de/db/conf/itc/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-09-21
+  end: 2025-09-25
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/itc/'>here</a>"
+
+- title: LISA
+  year: 2025
+  id: lisa25
+  link: http://dblp.uni-trier.de/db/conf/lisa/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-12-01
+  end: 2025-12-05
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/lisa/'>here</a>"
+
+- title: MSST
+  year: 2025
+  id: msst25
+  link: http://dblp.uni-trier.de/db/conf/mss/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-06-16
+  end: 2025-06-20
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/mss/'>here</a>"
+
+- title: RTAS
+  year: 2025
+  id: rtas25
+  link: http://dblp.uni-trier.de/db/conf/rtas/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-04-21
+  end: 2025-04-24
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/rtas/'>here</a>"
+
+- title: Euro-Par
+  year: 2025
+  id: europar25
+  link: http://dblp.uni-trier.de/db/conf/europar/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: TBA 2025
+  start: 2025-08-25
+  end: 2025-08-29
+  hindex: 100
+  sub: Arch
+  note: "Abstract deadline on October 3, 2024. More info <a href='http://dblp.uni-trier.de/db/conf/europar/'>here</a>"
