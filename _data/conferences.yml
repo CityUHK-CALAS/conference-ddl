@@ -1399,7 +1399,7 @@
 - title: ICCD
   year: 2025
   id: iccd25
-  link: https://iccd-conference.org/  # Changed to official website if known, otherwise left as TBD
+  link: https://www.iccd-conf.com/  # Changed to official website if known, otherwise left as TBD
   deadline: '2025-05-11 23:59:59'
   abstract_deadline: '2025-05-04 23:59:59'
   timezone: UTC-12
@@ -1409,7 +1409,7 @@
   end: 2025-11-12
   hindex: 21
   sub: Arch
-  note: "More info <a href='https://iccd-conference.org/'>here</a>"
+  note: "More info <a href='https://www.iccd-conf.com/'>here</a>"
 
 - title: ICCAD
   year: 2025
@@ -1429,7 +1429,7 @@
 - title: ICDCS
   year: 2025
   id: icdcs25
-  link: https://icdcs2025.org/  # Changed to official website if known, otherwise left as TBD
+  link: https://icdcs2025.icdcs.org/  # Changed to official website if known, otherwise left as TBD
   deadline: '2024-12-18 23:59:59'
   abstract_deadline: '2024-12-11 23:59:59'
   timezone: UTC-12
@@ -1439,12 +1439,12 @@
   end: 2025-07-23
   hindex: 48
   sub: Arch
-  note: "More info <a href='https://icdcs2025.org/'>here</a>"
+  note: "More info <a href='https://icdcs2025.icdcs.org/'>here</a>"
 
 - title: CODES+ISSS
   year: 2025
   id: codesisss25
-  link: https://codes-isss.org/  # Changed to official website if known, otherwise left as TBD
+  link: https://esweek.org/codes-isss/  # Changed to official website if known, otherwise left as TBD
   deadline: '2025-03-30 23:59:59'
   abstract_deadline: '2025-03-23 23:59:59'
   timezone: UTC-12
@@ -1454,7 +1454,7 @@
   end: 2025-10-03
   hindex: 5
   sub: Arch
-  note: "More info <a href='https://codes-isss.org/'>here</a>"
+  note: "More info <a href='https://esweek.org/codes-isss/'>here</a>"
 
 - title: HiPEAC
   year: 2025
@@ -1489,7 +1489,7 @@
 - title: PACT
   year: 2025
   id: pact25
-  link: https://pactconf.org/  # Changed to official website if known, otherwise left as TBD
+  link: https://pact2024.github.io/  # Changed to official website if known, otherwise left as TBD
   deadline: TBD
   abstract_deadline: TBD
   timezone: UTC-12
@@ -1499,12 +1499,12 @@
   end: TBD
   hindex: 21
   sub: Arch
-  note: "More info <a href='https://pactconf.org/'>here</a>"
+  note: "More info <a href='https://pact2024.github.io/'>here</a>"
 
 - title: ICPP
   year: 2025
   id: icpp25
-  link: https://icpp-conf.org/  # Changed to official website if known, otherwise left as TBD
+  link: https://icpp2024.org/  # Changed to official website if known, otherwise left as TBD
   deadline: TBD
   abstract_deadline: TBD
   timezone: UTC-12
@@ -1514,12 +1514,12 @@
   end: TBD
   hindex: 24
   sub: Arch
-  note: "More info <a href='https://icpp-conf.org/'>here</a>"
+  note: "More info <a href='https://icpp2024.org/'>here</a>"
 
 - title: ICS
   year: 2025
   id: ics25
-  link: https://www.ics-conference.org/  # Changed to official website if known, otherwise left as TBD
+  link: https://hpcrl.github.io/ICS2025-webpage/  # Changed to official website if known, otherwise left as TBD
   deadline: '2025-02-27 23:59:59'
   abstract_deadline: '2025-02-24 23:59:59'
   timezone: UTC-12
@@ -1529,7 +1529,7 @@
   end: 2025-06-11
   hindex: 26
   sub: Arch
-  note: "More info <a href='https://www.ics-conference.org/'>here</a>"
+  note: "More info <a href='https://hpcrl.github.io/ICS2025-webpage/'>here</a>"
 
 - title: IPDPS
   year: 2025
@@ -1549,7 +1549,7 @@
 - title: HPDC
   year: 2025
   id: hpdc25
-  link: https://hpdc.org/  # Changed to official website if known, otherwise left as TBD
+  link: https://hpdc.sci.utah.edu/  # Changed to official website if known, otherwise left as TBD
   deadline: '2025-02-06 23:59:59'
   abstract_deadline: '2025-02-06 23:59:59'
   timezone: UTC-12
@@ -1559,12 +1559,12 @@
   end: 2025-07-23
   hindex: 69
   sub: Arch
-  note: "More info <a href='https://hpdc.org/'>here</a>"
+  note: "More info <a href='https://hpdc.sci.utah.edu/'>here</a>"
 
 - title: ITC
   year: 2025
   id: itc25
-  link: https://tttc.ieee.org/itc  # Changed to official website if known, otherwise left as TBD
+  link: https://www.itctestweek.org/  # Changed to official website if known, otherwise left as TBD
   deadline: '2025-03-21 23:59:59'
   abstract_deadline: '2025-03-07 23:59:59'
   timezone: UTC-12
@@ -1574,12 +1574,12 @@
   end: 2025-09-26
   hindex: 18
   sub: Arch
-  note: "More info <a href='https://tttc.ieee.org/itc'>here</a>"
+  note: "More info <a href='https://www.itctestweek.org/'>here</a>"
 
 - title: MSST
   year: 2025
   id: msst25
-  link: https://storageconference.org/  # Changed to official website if known, otherwise left as TBD
+  link: https://www.msstconference.org/  # Changed to official website if known, otherwise left as TBD
   deadline: TBD
   abstract_deadline: TBD
   timezone: UTC-12
@@ -1589,7 +1589,7 @@
   end: TBD
   hindex: 35
   sub: Arch
-  note: "More info <a href='https://storageconference.org/'>here</a>"
+  note: "More info <a href='https://www.msstconference.org/'>here</a>"
 
 - title: RTAS
   year: 2025
