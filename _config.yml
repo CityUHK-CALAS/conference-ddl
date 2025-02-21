@@ -3,7 +3,7 @@ description: Countdowns to top conference deadlines for CALAS
 author: CALAS
 
 domain: "calas.hk"
-baseurl: "https://d4rkcrypto.github.io/calas-ddl/"
+baseurl: "https://d4rkcrypto.github.io/calas-ddl"
 
 twitter_hashtag: calas
 github_username: D4rkCrypto
