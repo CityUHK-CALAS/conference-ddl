@@ -3,7 +3,7 @@
   sub: ML
   color: "#ffd300"
 - name: Security & Privacy
-  sub: S&P
+  sub: SP
   color: "#deff0a"
 - name: Cryptography
   sub: Crypto
