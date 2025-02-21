@@ -1132,31 +1132,31 @@
   year: 2025
   id: asiacrypt25
   full_name: Annual International Conference on the Theory and Application of Cryptology and Information Security
-  link: https://iacr.org/conferences/asiacrypt2025 (placeholder, actual TBA)
+  link: https://asiacrypt.iacr.org/
   deadline: 'TBA'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: TBA
   date: TBA
-  start: 2025-12-07
-  end: 2025-12-11
-  hindex: 81
+  start: TBA
+  end: TBA
+  hindex: 46
   sub: S&P
-  note: One of the three flagship IACR conferences, focusing on cryptology in the Asia-Pacific region. More info <a href="https://www.iacr.org/">here</a>.
+  note: One of the three flagship IACR conferences, focusing on cryptology in the Asia-Pacific region. More info <a href="https://asiacrypt.iacr.org/">here</a>.
 
 - title: ESORICS
   year: 2025
   id: esorics25
   full_name: European Symposium on Research in Computer Security
-  link: https://esorics2025.org/ (placeholder, actual TBA)
-  deadline: 'TBA'
-  abstract_deadline: 'TBA'
+  link: https://esorics2025.org/
+  deadline: '2025-04-22 23:59:59'
+  abstract_deadline: '2025-04-22 23:59:59'
   timezone: UTC-12
-  place: TBA
-  date: TBA
+  place: Université de Toulouse, Toulouse, France
+  date: September 22-26 2025
   start: 2025-09-22
   end: 2025-09-26
-  hindex: 65
+  hindex: 33
   sub: S&P
   note: A major European security symposium spanning foundational and applied security research. More info <a href="https://esorics2025.org/">here</a>.
 
@@ -1164,63 +1164,61 @@
   year: 2025
   id: fse25
   full_name: Fast Software Encryption
-  link: https://www.iacr.org/workshops/fse/ (main workshop site)
-  deadline: 'TBA'
-  abstract_deadline: 'TBA'
+  link: https://fse.iacr.org/2025/ (main workshop site)
+  deadline: '2024-11-22 23:59:59'
+  abstract_deadline: '2024-11-22 23:59:59'
   timezone: UTC-12
-  place: TBA
-  date: TBA
-  start: 2025-03-10
-  end: 2025-03-13
-  hindex: 52
+  place: Rome, Italy
+  date: March 17-21 2025
+  start: 2025-03-17
+  end: 2025-03-21
   sub: S&P
-  note: Focused on fast and secure primitives, block ciphers, stream ciphers, and hash functions. More info <a href="https://www.iacr.org/workshops/fse/">here</a>.
+  note: Focused on fast and secure primitives, block ciphers, stream ciphers, and hash functions. More info <a href="https://fse.iacr.org/2025/">here</a>.
 
-- title: CSFW
+- title: CSF
   year: 2025
-  id: csfw25
-  full_name: IEEE Computer Security Foundations Workshop
-  link: https://www.ieee-security.org/CSFWweb/
-  deadline: 'TBA'
-  abstract_deadline: 'TBA'
+  id: csf25
+  full_name: IEEE Computer Security Foundations Symposium
+  link: https://csf2025.ieee-security.org/
+  deadline: '2025-02-04 23:59:59'
+  abstract_deadline: '2025-02-04 23:59:59'
   timezone: UTC-12
-  place: TBA
-  date: TBA
-  start: 2025-06-17
+  place: Santa Cruz, CA, USA
+  date: June 16-20 2025
+  start: 2025-06-16
   end: 2025-06-20
-  hindex: 46
+  hindex: 22
   sub: S&P
-  note: IEEE workshop exploring foundational security properties and formal approaches. More info <a href="https://www.ieee-security.org/CSFWweb/">here</a>.
+  note: IEEE workshop exploring foundational security properties and formal approaches. More info <a href="https://csf2025.ieee-security.org/">here</a>.
 
 - title: SRDS
   year: 2025
   id: srds25
   full_name: IEEE International Symposium on Reliable Distributed Systems
-  link: https://srdsconference.org/
+  link: https://srds-conference.org/
   deadline: 'TBA'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: TBA
   date: TBA
-  start: 2025-09-29
-  end: 2025-10-02
-  hindex: 41
+  start: TBD
+  end: TBD
+  hindex: 18
   sub: S&P
-  note: A flagship IEEE symposium addressing dependability and reliability in distributed systems. More info <a href="https://srdsconference.org/">here</a>.
+  note: A flagship IEEE symposium addressing dependability and reliability in distributed systems. More info <a href="https://srds-conference.org/">here</a>.
 
 - title: CHES
   year: 2025
   id: ches25
   full_name: International Conference on Cryptographic Hardware and Embedded Systems
   link: https://ches.iacr.org/
-  deadline: 'TBA'
-  abstract_deadline: 'TBA'
+  deadline: '2025-04-15 23:59:59'
+  abstract_deadline: '2025-04-15 23:59:59'
   timezone: UTC-12
-  place: TBA
-  date: TBA
+  place: Kuala Lumpur, Malaysia
+  date: September 14-18 2025
   start: 2025-09-14
   end: 2025-09-18
-  hindex: 65
   sub: S&P
   note: A top venue for hardware-based cryptography and embedded system security. More info <a href="https://ches.iacr.org/">here</a>.
 
@@ -1229,14 +1227,14 @@
   id: dsn25
   full_name: International Conference on Dependable Systems and Networks
   link: https://dsn.org/
-  deadline: 'TBA'
-  abstract_deadline: 'TBA'
+  deadline: '2025-02-10 23:59:59'
+  abstract_deadline: '2025-02-03 23:59:59'
   timezone: UTC-12
-  place: TBA
-  date: TBA
+  place: Naples, Italy
+  date: June 23-26 2025
   start: 2025-06-23
   end: 2025-06-26
-  hindex: 56
+  hindex: 37
   sub: S&P
   note: Joint IEEE/IFIP conference focusing on dependable and secure computing systems. More info <a href="https://dsn.org/">here</a>.
 
@@ -1244,49 +1242,47 @@
   year: 2025
   id: raid25
   full_name: International Symposium on Recent Advances in Intrusion Detection
-  link: https://www.raid-symposium.org/
+  link: https://raid2024.github.io/
   deadline: 'TBA'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: TBA
   date: TBA
-  start: 2025-09-08
-  end: 2025-09-10
-  hindex: 50
+  start: TBA
+  end: TBA
   sub: S&P
-  note: Covers cutting-edge intrusion detection and network defense topics. More info <a href="https://www.raid-symposium.org/">here</a>.
+  note: Covers cutting-edge intrusion detection and network defense topics. More info <a href="https://raid2024.github.io/">here</a>.
 
 - title: PKC
   year: 2025
   id: pkc25
   full_name: International Workshop on Practice and Theory in Public Key Cryptography
-  link: https://www.iacr.org/workshops/pkc/ (main workshop site)
-  deadline: 'TBA'
-  abstract_deadline: 'TBA'
+  link: https://pkc.iacr.org/2025/
+  deadline: '2024-10-16 23:59:59'
+  abstract_deadline: '2024-10-16 23:59:59'
   timezone: UTC-12
-  place: TBA
-  date: TBA
-  start: 2025-05-05
-  end: 2025-05-08
-  hindex: 47
+  place: Røros, Norway
+  date: May 12-15 2025
+  start: 2025-05-12
+  end: 2025-05-15
+  hindex: 35
   sub: S&P
-  note: IACR workshop focusing on all aspects of public key cryptography. More info <a href="https://www.iacr.org/workshops/pkc/">here</a>.
+  note: IACR workshop focusing on all aspects of public key cryptography. More info <a href="https://pkc.iacr.org/2025/">here</a>.
 
 - title: TCC
   year: 2025
   id: tcc25
   full_name: Theory of Cryptography Conference
-  link: https://www.iacr.org/conferences/tcc/ (main conference site)
+  link: https://iacr.org/meetings/tcc/
   deadline: 'TBA'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: TBA
   date: TBA
-  start: 2025-11-17
-  end: 2025-11-20
-  hindex: 61
+  start: TBA
+  end: TBA
   sub: S&P
-  note: Premier IACR venue focusing on the theoretical side of cryptography. More info <a href="https://www.iacr.org/conferences/tcc/">here</a>.
+  note: Premier IACR venue focusing on the theoretical side of cryptography. More info <a href="https://iacr.org/meetings/tcc/">here</a>.
 
 - title: CRYPTO
   year: 2024
