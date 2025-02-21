@@ -1045,7 +1045,7 @@
   start: 2025-05-04
   end: 2025-05-08
   hindex: 46
-  sub: S&P
+  sub: [S&P, Crypto]
   note: A major IACR conference focusing on advances in cryptographic theory and practice. More info <a href="https://eurocrypt.iacr.org/2025/">here</a>.
 
 - title: S&P
@@ -1077,7 +1077,7 @@
   start: 2025-08-17
   end: 2025-08-21
   hindex: 61
-  sub: S&P
+  sub: [S&P, Crypto]
   note: A premier IACR event dedicated to cryptology research. More info <a href="https://crypto.iacr.org/2025/">here</a>.
 
 - title: USENIX Security
@@ -1283,52 +1283,6 @@
   end: TBA
   sub: S&P
   note: Premier IACR venue focusing on the theoretical side of cryptography. More info <a href="https://iacr.org/meetings/tcc/">here</a>.
-
-- title: CRYPTO
-  year: 2024
-  id: crypto24
-  full_name: International Cryptology Conference
-  link: https://www.iacr.org/conferences/crypto2024/
-  deadline: '2024-02-05 23:59:59'
-  abstract_deadline: '2024-01-29 23:59:59'
-  timezone: UTC-12
-  place: Santa Barbara, California, USA
-  date: August 18 - August 22, 2024
-  start: 2024-08-18
-  end: 2024-08-22
-  hindex: 97
-  sub: Crypto
-  note: Highly selective conference on cryptography. Organized by IACR. More info <a href="https://www.iacr.org/conferences/crypto2024/">here</a>.
-
-- title: EUROCRYPT
-  year: 2024
-  id: eurocrypt24
-  link: https://www.iacr.org/conferences/eurocrypt2024/
-  deadline: '2024-10-03 23:59:59'
-  abstract_deadline: '2024-09-26 23:59:59'
-  timezone: UTC-12
-  place: Vienna, Austria
-  date: May 12 - May 16, 2024
-  start: 2024-05-12
-  end: 2024-05-16
-  hindex: 74
-  sub: Crypto
-  note: One of the IACR flagship conferences on cryptography. More info <a href="https://www.iacr.org/conferences/eurocrypt2024/">here</a>.
-
-- title: EuroCrypt
-  year: 2025
-  id: eurocrypt25
-  link: https://www.iacr.org/conferences/eurocrypt2025/
-  deadline: '2025-01-04 23:59:59'
-  abstract_deadline: '2024-12-28 23:59:59'
-  timezone: UTC-12
-  place: TBD
-  date: May 2025
-  start: 2025-05-10
-  end: 2025-05-14
-  hindex: 74
-  sub: Crypto
-  note: Part of the IACR's major crypto conferences. Often covers advanced cryptography, protocols, proofs.
 
 - title: PPoPP
   year: 2025
