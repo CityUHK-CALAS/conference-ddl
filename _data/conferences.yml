@@ -1,82 +1,3 @@
-- title: ICLR
-  year: 2025
-  id: iclr25
-  link: https://iclr.cc/Conferences/2025/CallForPapers
-  deadline: '2024-10-01 23:59:59'
-  abstract_deadline: '2024-09-27 23:59:59'
-  timezone: UTC-12
-  place: Singapore
-  date: Apr 24-28, 2025
-  start: 2025-04-24
-  end: 2025-04-28
-  hindex: 304
-  sub: ML
-  note: Mandatory abstract deadline on September 27, 2024. More info <a href='https://iclr.cc/Conferences/2025/CallForPapers'>here</a>.
-
-- title: AAAI
-  year: 2025
-  id: aaai25
-  full_name: AAAI Conference on Artificial Intelligence
-  link: https://aaai.org/conference/aaai/aaai-25/
-  deadline: '2024-08-15 23:59:59'
-  abstract_deadline: '2024-08-07 23:59:59'
-  timezone: UTC-12
-  place: Philadelphia, USA
-  date: February 25 - March 04, 2025
-  start: 2025-02-25
-  end: 2025-03-04
-  hindex: 212
-  sub: ML
-  note: Mandatory abstract deadline on Aug 07, 2024, and supplementary material deadline on Aug 19, 2024. More info <a href='https://aaai.org/conference/aaai/aaai-25/'>here</a>.
-
-- title: EUROCRYPT
-  year: 2025
-  id: eurocrypt25
-  full_name: International Conference on the Theory and Applications of Cryptographic Techniques
-  link: https://eurocrypt.iacr.org/2025/
-  deadline: '2024-10-02 23:59:59'
-  abstract_deadline: '2024-10-02 23:59:59'
-  timezone: UTC-12
-  place: Madrid, Spain
-  date: May 04-08 2025
-  start: 2025-05-04
-  end: 2025-05-08
-  hindex: 46
-  sub: [SP, Crypto]
-  note: A major IACR conference focusing on advances in cryptographic theory and practice. More info <a href="https://eurocrypt.iacr.org/2025/">here</a>.
-
-- title: CRYPTO
-  year: 2025
-  id: crypto25
-  full_name: International Cryptology Conference
-  link: https://crypto.iacr.org/2025/
-  deadline: '2025-02-13 23:59:59'
-  abstract_deadline: '2025-02-13 23:59:59'
-  timezone: UTC-12
-  place: UC Santa Barbara, California, USA
-  date: August 17-21 2025
-  start: 2025-08-17
-  end: 2025-08-21
-  hindex: 61
-  sub: [SP, Crypto]
-  note: A premier IACR event dedicated to cryptology research. More info <a href="https://crypto.iacr.org/2025/">here</a>.
-
-- title: ASIACRYPT
-  year: 2025
-  id: asiacrypt25
-  full_name: Annual International Conference on the Theory and Application of Cryptology and Information Security
-  link: https://asiacrypt.iacr.org/
-  deadline: 'TBA'
-  abstract_deadline: 'TBA'
-  timezone: UTC-12
-  place: TBA
-  date: TBA
-  start: TBA
-  end: TBA
-  hindex: 46
-  sub: [SP, Crypto]
-  note: One of the three flagship IACR conferences, focusing on cryptology in the Asia-Pacific region. More info <a href="https://asiacrypt.iacr.org/">here</a>.
-
 - title: CHES
   year: 2025
   id: ches25
@@ -89,182 +10,8 @@
   date: September 14-18 2025
   start: 2025-09-14
   end: 2025-09-18
-  sub: [SP, Crypto, Arch]
+  sub: [DS, SC]
   note: A top venue for hardware-based cryptography and embedded system security. More info <a href="https://ches.iacr.org/">here</a>.
-
-- title: FSE
-  year: 2025
-  id: fse25
-  full_name: Fast Software Encryption
-  link: https://fse.iacr.org/2025/ (main workshop site)
-  deadline: '2024-11-22 23:59:59'
-  abstract_deadline: '2024-11-22 23:59:59'
-  timezone: UTC-12
-  place: Rome, Italy
-  date: March 17-21 2025
-  start: 2025-03-17
-  end: 2025-03-21
-  sub: [SP, Crypto]
-  note: Focused on fast and secure primitives, block ciphers, stream ciphers, and hash functions. More info <a href="https://fse.iacr.org/2025/">here</a>.
-
-- title: PKC
-  year: 2025
-  id: pkc25
-  full_name: International Workshop on Practice and Theory in Public Key Cryptography
-  link: https://pkc.iacr.org/2025/
-  deadline: '2024-10-16 23:59:59'
-  abstract_deadline: '2024-10-16 23:59:59'
-  timezone: UTC-12
-  place: Røros, Norway
-  date: May 12-15 2025
-  start: 2025-05-12
-  end: 2025-05-15
-  hindex: 35
-  sub: [SP, Crypto]
-  note: IACR workshop focusing on all aspects of public key cryptography. More info <a href="https://pkc.iacr.org/2025/">here</a>.
-
-- title: TCC
-  year: 2025
-  id: tcc25
-  full_name: Theory of Cryptography Conference
-  link: https://iacr.org/meetings/tcc/
-  deadline: 'TBA'
-  abstract_deadline: 'TBA'
-  timezone: UTC-12
-  place: TBA
-  date: TBA
-  start: TBA
-  end: TBA
-  sub: [SP, Crypto]
-  note: Premier IACR venue focusing on the theoretical side of cryptography. More info <a href="https://iacr.org/meetings/tcc/">here</a>.
-
-- title: CCS
-  year: 2025
-  id: ccs25
-  full_name: ACM Conference on Computer and Communications Security
-  link: https://www.sigsac.org/ccs/CCS2025
-  deadline: '2025-04-14 23:59:59'
-  abstract_deadline: '2025-04-07 23:59:59'
-  timezone: UTC-12
-  place: Taipei, Taiwan
-  date: October 13-17 2025
-  start: 2025-10-13
-  end: 2025-10-17
-  hindex: 39
-  sub: SP
-  note: A leading ACM security conference covering computer and communications security. More info <a href="https://www.sigsac.org/ccs/CCS2025">here</a>.
-
-- title: S&P
-  year: 2025
-  id: sp25
-  full_name: IEEE Symposium on Security and Privacy
-  link: https://www.ieee-security.org/
-  deadline: '2024-11-14 23:59:59'
-  abstract_deadline: '2024-11-14 23:59:59'
-  timezone: UTC-12
-  place: THE HYATT REGENCY SAN FRANCISCO, SAN FRANCISCO, CA, USA
-  date: May 12-15 2025
-  start: 2025-05-12
-  end: 2025-05-15
-  hindex: 112
-  sub: SP
-  note: A prestigious IEEE symposium known for foundational and innovative security/privacy work. More info <a href="https://www.ieee-security.org/">here</a>.
-
-- title: USENIX Security
-  year: 2025
-  id: usenixsec25
-  full_name: USENIX Security Symposium
-  link: https://www.usenix.org/conference/usenixsecurity25/
-  deadline: '2025-01-22 23:59:59'
-  abstract_deadline: '2025-01-22 23:59:59'
-  timezone: UTC-12
-  place: Seattle, WA, USA
-  date: August 13-15 2025
-  start: 2025-08-13
-  end: 2025-08-15
-  hindex: 106
-  sub: SP
-  note: A top venue published by USENIX focusing on practical and advanced security research. More info <a href="https://www.usenix.org/">here</a>.
-
-- title: NDSS
-  year: 2025
-  id: ndss25
-  full_name: Network and Distributed System Security Symposium
-  link: https://www.ndss-symposium.org/
-  deadline: '2024-07-10 23:59:59'
-  abstract_deadline: '2024-07-10 23:59:59'
-  timezone: UTC-12
-  place: San Diego, California, USA
-  date: February 24-28, 2025
-  start: 2025-02-24
-  end: 2025-02-28
-  hindex: 73
-  sub: SP
-  note: One of the top security conferences focusing on network and distributed systems. More info <a href="https://www.ndss-symposium.org/">here</a>.
-
-- title: ACSAC
-  year: 2025
-  id: acsac25
-  full_name: Annual Computer Security Applications Conference
-  link: https://www.acsac.org/
-  deadline: '2025-05-28 23:59:59'
-  abstract_deadline: '2025-05-28 23:59:59'
-  timezone: UTC-12
-  place: Hawaii, USA
-  date: December 8-12 2025
-  start: 2025-12-08
-  end: 2025-12-12
-  hindex: 76
-  sub: SP
-  note: A well-established IEEE conference focusing on practical security solutions and applications. More info <a href="https://www.acsac.org/">here</a>.
-
-- title: ESORICS
-  year: 2025
-  id: esorics25
-  full_name: European Symposium on Research in Computer Security
-  link: https://esorics2025.org/
-  deadline: '2025-04-22 23:59:59'
-  abstract_deadline: '2025-04-22 23:59:59'
-  timezone: UTC-12
-  place: Université de Toulouse, Toulouse, France
-  date: September 22-26 2025
-  start: 2025-09-22
-  end: 2025-09-26
-  hindex: 33
-  sub: SP
-  note: A major European security symposium spanning foundational and applied security research. More info <a href="https://esorics2025.org/">here</a>.
-
-- title: CSF
-  year: 2025
-  id: csf25
-  full_name: IEEE Computer Security Foundations Symposium
-  link: https://csf2025.ieee-security.org/
-  deadline: '2025-02-04 23:59:59'
-  abstract_deadline: '2025-02-04 23:59:59'
-  timezone: UTC-12
-  place: Santa Cruz, CA, USA
-  date: June 16-20 2025
-  start: 2025-06-16
-  end: 2025-06-20
-  hindex: 22
-  sub: SP
-  note: IEEE workshop exploring foundational security properties and formal approaches. More info <a href="https://csf2025.ieee-security.org/">here</a>.
-
-- title: SRDS
-  year: 2025
-  id: srds25
-  full_name: IEEE International Symposium on Reliable Distributed Systems
-  link: https://srds-conference.org/
-  deadline: 'TBA'
-  abstract_deadline: 'TBA'
-  timezone: UTC-12
-  place: TBA
-  date: TBA
-  start: TBD
-  end: TBD
-  hindex: 18
-  sub: SP
-  note: A flagship IEEE symposium addressing dependability and reliability in distributed systems. More info <a href="https://srds-conference.org/">here</a>.
 
 - title: PPoPP
   year: 2025
@@ -278,7 +25,7 @@
   start: 2025-03-01
   end: 2025-03-05
   hindex: 33
-  sub: Arch
+  sub: DS
   note: "Official info at <a href='https://ppopp25.sigplan.org/'>ppopp25.sigplan.org</a>"
 
 - title: FAST
@@ -293,7 +40,7 @@
   start: 2025-02-25
   end: 2025-02-17
   hindex: 39
-  sub: Arch
+  sub: DS
   note: "Official info at <a href='https://www.usenix.org/conference/fast25'>usenix.org/conference/fast25</a>"
 
 - title: DAC
@@ -308,7 +55,7 @@
   start: 2025-06-22
   end: 2025-06-25
   hindex: 38
-  sub: Arch
+  sub: DS
   note: "Official info at <a href='https://www.dac.com/'>dac.com</a>"
 
 - title: HPCA
@@ -323,7 +70,7 @@
   start: 2025-03-01
   end: 2025-03-05
   hindex: 50
-  sub: Arch
+  sub: DS
   note: "Official info at <a href='https://hpca-conf.org/'>hpca-conf.org</a>"
 
 - title: MICRO
@@ -338,7 +85,7 @@
   start: 2025-10-18
   end: 2025-10-22
   hindex: 61
-  sub: Arch
+  sub: DS
   note: "Official info at <a href='https://microarch.org/'>microarch.org</a>"
 
 - title: SC
@@ -353,7 +100,7 @@
   start: 2025-11-16
   end: 2025-11-21
   hindex: 50
-  sub: Arch
+  sub: DS
   note: "Official info at <a href='https://sc25.supercomputing.org/'>supercomputing.org</a>"
 
 - title: ASPLOS
@@ -368,7 +115,7 @@
   start: 2025-03-30
   end: 2025-04-03
   hindex: 71
-  sub: Arch
+  sub: DS
   note: "Official info at <a href='https://asplos-conference.org/'>asplos-conference.org</a>"
 
 - title: ISCA
@@ -383,7 +130,7 @@
   start: 2025-06-21
   end: 2025-06-25
   hindex: 62
-  sub: Arch
+  sub: DS
   note: "Official info at <a href='https://iscaconf.org/'>iscaconf.org</a>"
 
 - title: USENIX ATC
@@ -398,7 +145,7 @@
   start: 2025-07-07
   end: 2025-07-09
   hindex: 55
-  sub: Arch
+  sub: DS
   note: "Official info at <a href='https://www.usenix.org/conference/atc25'>usenix.org/conference/atc25</a>"
 
 - title: EuroSys
@@ -413,53 +160,8 @@
   start: 2025-03-30
   end: 2025-04-03
   hindex: 48
-  sub: Arch
+  sub: DS
   note: "Official info at <a href='https://www.eurosys.org/'>eurosys.org</a>"
-
-- title: SoCC
-  year: 2025
-  id: socc25
-  link: http://acmsocc.org
-  deadline: TBD
-  abstract_deadline: TBD
-  timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: TBD
-  end: TBD
-  hindex: 34
-  sub: Arch
-  note: "More info <a href='http://acmsocc.org/'>here</a>"
-
-- title: SPAA
-  year: 2025
-  id: spaa25
-  link: https://spaa.acm.org/  
-  deadline: '2025-02-28 23:59:59'
-  abstract_deadline: '2025-02-21 23:59:59'
-  timezone: UTC-12
-  place: Portland, Oregon
-  date: July 18-August 01 2025
-  start: 2025-07-18
-  end: 2025-08-01
-  hindex: 22
-  sub: Arch
-  note: "More info <a href='https://spaa.acm.org/'>here</a>"
-
-- title: PODC
-  year: 2025
-  id: podc25
-  link: https://www.podc.org/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2025-02-08 23:59:59'
-  abstract_deadline: '2025-02-04 23:59:59'
-  timezone: UTC-12
-  place: Huatulco, Mexico
-  date: June 16-20 2025
-  start: 2025-06-16
-  end: 2025-06-20
-  hindex: 30
-  sub: Arch
-  note: "More info <a href='https://www.podc.org/'>here</a>"
 
 - title: FPGA
   year: 2025
@@ -473,23 +175,8 @@
   start: 2025-02-27
   end: 2025-03-01
   hindex: 40
-  sub: Arch
+  sub: DS
   note: "More info <a href='https://www.isfpga.org/'>here</a>"
-
-- title: CGO
-  year: 2025
-  id: cgo25
-  link: https://cgo.org/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2024-09-12 23:59:59'
-  abstract_deadline: '2024-09-12 23:59:59'
-  timezone: UTC-12
-  place: Las Vegas, USA
-  date: March 01-05 2025
-  start: 2025-03-01
-  end: 2025-03-05
-  hindex: 25
-  sub: Arch
-  note: "More info <a href='https://cgo.org/'>here</a>"
 
 - title: DATE
   year: 2025
@@ -503,38 +190,8 @@
   start: 2025-03-31
   end: 2025-04-02
   hindex: 46
-  sub: Arch
+  sub: DS
   note: "More info <a href='https://date-conference.com/'>here</a>"
-
-- title: HOT CHIPS
-  year: 2025
-  id: hotchips25
-  link: https://hotchips.org/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2025-03-28 23:59:59'
-  abstract_deadline: '2025-03-28 23:59:59'
-  timezone: UTC-12
-  place: Memorial Auditorium, Stanford, Palo Alto, CA, USA
-  date: August 24-26 2025
-  start: 2025-08-24
-  end: 2025-08-26
-  hindex: 25
-  sub: Arch
-  note: "More info <a href='https://hotchips.org/'>here</a>"
-
-- title: CLUSTER
-  year: 2025
-  id: cluster25
-  link: https://clustercomp.org/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2025-04-25 23:59:59'
-  abstract_deadline: '2025-02-03 23:59:59'
-  timezone: UTC-12
-  place: Edinburgh, Scotland
-  date: September 02-05 2025
-  start: 2025-09-02
-  end: 2025-09-05
-  hindex: 22
-  sub: Arch
-  note: "More info <a href='https://clustercomp.org/'>here</a>"
 
 - title: ICCD
   year: 2025
@@ -548,7 +205,7 @@
   start: 2025-11-10
   end: 2025-11-12
   hindex: 21
-  sub: Arch
+  sub: DS
   note: "More info <a href='https://www.iccd-conf.com/'>here</a>"
 
 - title: ICCAD
@@ -563,200 +220,5 @@
   start: 2025-10-26
   end: 2025-10-30
   hindex: 41
-  sub: Arch
+  sub: DS
   note: "Abstract deadline on April 14, 2025. More info <a href='https://iccad.com/'>here</a>"
-
-- title: ICDCS
-  year: 2025
-  id: icdcs25
-  link: https://icdcs2025.icdcs.org/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2024-12-18 23:59:59'
-  abstract_deadline: '2024-12-11 23:59:59'
-  timezone: UTC-12
-  place: Glasgow, Scotland, UK
-  date: July 20-23 2025
-  start: 2025-07-20
-  end: 2025-07-23
-  hindex: 48
-  sub: Arch
-  note: "More info <a href='https://icdcs2025.icdcs.org/'>here</a>"
-
-- title: CODES+ISSS
-  year: 2025
-  id: codesisss25
-  link: https://esweek.org/codes-isss/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2025-03-30 23:59:59'
-  abstract_deadline: '2025-03-23 23:59:59'
-  timezone: UTC-12
-  place: Taipei, Taiwan
-  date: September 28-October 03 2025
-  start: 2025-09-28
-  end: 2025-10-03
-  hindex: 5
-  sub: Arch
-  note: "More info <a href='https://esweek.org/codes-isss/'>here</a>"
-
-- title: HiPEAC
-  year: 2025
-  id: hipeac25
-  link: https://www.hipeac.net/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2024-06-01 23:59:59'
-  abstract_deadline: '2024-06-01 23:59:59'
-  timezone: UTC-12
-  place: Barcelona, Spain
-  date: January 20-21 2025
-  start: 2025-01-20
-  end: 2025-01-21
-  hindex: 10
-  sub: Arch
-  note: "More info <a href='https://www.hipeac.net/'>here</a>"
-
-- title: ACM SIGMETRICS (Performance)
-  year: 2025
-  id: sigmetrics25
-  link: https://www.sigmetrics.org/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2025-01-22 23:59:59'
-  abstract_deadline: '2025-01-15 23:59:59'
-  timezone: UTC-12
-  place: Stony Brook, New York, USA
-  date: June 09-13 2025
-  start: 2025-06-09
-  end: 2025-06-13
-  hindex: 40
-  sub: Arch
-  note: "More info <a href='https://www.sigmetrics.org/'>here</a>"
-
-- title: PACT
-  year: 2025
-  id: pact25
-  link: https://pact2024.github.io/  # Changed to official website if known, otherwise left as TBD
-  deadline: TBD
-  abstract_deadline: TBD
-  timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: TBD
-  end: TBD
-  hindex: 21
-  sub: Arch
-  note: "More info <a href='https://pact2024.github.io/'>here</a>"
-
-- title: ICPP
-  year: 2025
-  id: icpp25
-  link: https://icpp2024.org/  # Changed to official website if known, otherwise left as TBD
-  deadline: TBD
-  abstract_deadline: TBD
-  timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: TBD
-  end: TBD
-  hindex: 24
-  sub: Arch
-  note: "More info <a href='https://icpp2024.org/'>here</a>"
-
-- title: ICS
-  year: 2025
-  id: ics25
-  link: https://hpcrl.github.io/ICS2025-webpage/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2025-02-27 23:59:59'
-  abstract_deadline: '2025-02-24 23:59:59'
-  timezone: UTC-12
-  place: Salt Lake City, USA
-  date: June 08-11 2025
-  start: 2025-06-08
-  end: 2025-06-11
-  hindex: 26
-  sub: Arch
-  note: "More info <a href='https://hpcrl.github.io/ICS2025-webpage/'>here</a>"
-
-- title: IPDPS
-  year: 2025
-  id: ipdps25
-  link: https://www.ipdps.org/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
-  timezone: UTC-12
-  place: Milan, Italy
-  date: June 03-07 2025
-  start: 2025-05-19
-  end: 2025-05-23
-  hindex: 38
-  sub: Arch
-  note: "More info <a href='https://www.ipdps.org/'>here</a>"
-
-- title: HPDC
-  year: 2025
-  id: hpdc25
-  link: https://hpdc.sci.utah.edu/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2025-02-06 23:59:59'
-  abstract_deadline: '2025-02-06 23:59:59'
-  timezone: UTC-12
-  place: Notre Dame, IN, USA
-  date: July 20-23 2025
-  start: 2025-07-20
-  end: 2025-07-23
-  hindex: 69
-  sub: Arch
-  note: "More info <a href='https://hpdc.sci.utah.edu/'>here</a>"
-
-- title: ITC
-  year: 2025
-  id: itc25
-  link: https://www.itctestweek.org/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2025-03-21 23:59:59'
-  abstract_deadline: '2025-03-07 23:59:59'
-  timezone: UTC-12
-  place: San Diego, California, USA
-  date: September 21-26 2025
-  start: 2025-09-21
-  end: 2025-09-26
-  hindex: 18
-  sub: Arch
-  note: "More info <a href='https://www.itctestweek.org/'>here</a>"
-
-- title: MSST
-  year: 2025
-  id: msst25
-  link: https://www.msstconference.org/  # Changed to official website if known, otherwise left as TBD
-  deadline: TBD
-  abstract_deadline: TBD
-  timezone: UTC-12
-  place: TBD
-  date: TBA 2025
-  start: TBD
-  end: TBD
-  hindex: 35
-  sub: Arch
-  note: "More info <a href='https://www.msstconference.org/'>here</a>"
-
-- title: RTAS
-  year: 2025
-  id: rtas25
-  link: https://www.2025.rtas.org/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2024-11-14 23:59:59'
-  abstract_deadline: '2024-11-14 23:59:59'
-  timezone: UTC-12
-  place: Irvine, USA
-  date: May 06-09 2025
-  start: 2025-05-06
-  end: 2025-05-09
-  hindex: 28
-  sub: Arch
-  note: "More info <a href='https://www.2025.rtas.org/'>here</a>"
-
-- title: Euro-Par
-  year: 2025
-  id: europar25
-  link: https://www.europar.org/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2025-03-09 23:59:59'
-  abstract_deadline: '2025-02-24 23:59:59'
-  timezone: UTC-12
-  place: Dresden, Germany
-  date: August 25-29 2025
-  start: 2025-08-25
-  end: 2025-08-29
-  hindex: 14
-  sub: Arch
-  note: "Abstract deadline on February 24, 2025. More info <a href='https://www.europar.org/'>here</a>"

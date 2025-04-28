@@ -3,7 +3,7 @@ description: Countdowns to top conference deadlines for CALAS
 author: CALAS
 
 domain: ""
-baseurl: "https://cityuhk-calas.github.io/conference-ddl"
+baseurl: "https://cityuhk-calas.github.io/deadlines"
 
 twitter_hashtag: calas
 github_username: D4rkCrypto
