@@ -5,9 +5,9 @@ author: CALAS
 domain: ""
 baseurl: "https://cityuhk-calas.github.io/deadlines"
 
-twitter_hashtag: calas
-github_username: D4rkCrypto
-github_repo: calas-ddl
+twitter_hashtag: ""
+github_username: cityuhk-calas
+github_repo: deadlines
 
 markdown: kramdown
 ga_id:
