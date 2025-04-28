@@ -233,7 +233,7 @@
 
 - title: CGO
   year: 2026
-  id: cgo26-first
+  id: cgo26-second
   link: https://2026.cgo.org
   full_name: International Symposium on Code Generation and Optimization
   deadline: '2025-09-11 23:59:59'
@@ -243,7 +243,7 @@
   start: 2026-04-20
   end: 2026-04-22
   sub: DS
-  note: "First deadline"
+  note: "Second deadline"
 
 - title: ICCD
   year: 2025
