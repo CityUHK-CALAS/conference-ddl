@@ -1,22 +1,22 @@
 - title: CHES
-  year: 2025
-  id: ches25
-  full_name: International Conference on Cryptographic Hardware and Embedded Systems
-  link: https://ches.iacr.org/
-  deadline: '2025-04-15 23:59:59'
-  abstract_deadline: '2025-04-15 23:59:59'
+  year: 2026
+  id: ches26
+  full_name: IACR Conference on Cryptographic Hardware and Embedded Systems
+  link: https://ches.iacr.org/2026/
+  deadline: '2025-07-15 23:59:59'
   timezone: UTC-12
-  place: Kuala Lumpur, Malaysia
-  date: September 14-18 2025
-  start: 2025-09-14
-  end: 2025-09-18
+  place: TBA
+  date: September 14-18 2026
+  start: 2026-09-14
+  end: 2026-09-18
   sub: [DS, SC]
-  note: A top venue for hardware-based cryptography and embedded system security. More info <a href="https://ches.iacr.org/">here</a>.
+  note: Top conference for hardware-based cryptography and embedded system security.
 
 - title: PPoPP
   year: 2025
   id: ppopp25
   link: https://ppopp25.sigplan.org/
+  full_name: ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming 2025
   deadline: '2024-08-16 23:59:59'
   abstract_deadline: '2024-08-16 23:59:59'
   timezone: UTC-12
@@ -24,24 +24,38 @@
   date: March 1-5, 2025
   start: 2025-03-01
   end: 2025-03-05
-  hindex: 33
   sub: DS
   note: "Official info at <a href='https://ppopp25.sigplan.org/'>ppopp25.sigplan.org</a>"
 
 - title: FAST
-  year: 2025
-  id: fast25
-  link: https://www.usenix.org/conference/fast25
-  deadline: '2024-09-17 23:59:59'
-  abstract_deadline: '2024-09-17 23:59:59'
+  year: 2026
+  id: fast26-spring
+  link: https://www.usenix.org/conference/fast26
+  full_name: 24th USENIX Conference on File and Storage Technologies
+  deadline: '2025-03-18 23:59:00'
+  abstract_deadline: ''
   timezone: UTC-12
   place: Santa Clara, CA, USA
-  date: February 25-27, 2025
-  start: 2025-02-25
-  end: 2025-02-17
-  hindex: 39
+  date: February 24-26, 2026
+  start: 2026-02-24
+  end: 2026-02-26
   sub: DS
-  note: "Official info at <a href='https://www.usenix.org/conference/fast25'>usenix.org/conference/fast25</a>"
+  note: "Spring deadline"
+
+- title: FAST
+  year: 2026
+  id: fast26-fall
+  link: https://www.usenix.org/conference/fast26
+  full_name: 24th USENIX Conference on File and Storage Technologies
+  deadline: '2025-09-16 23:59:00'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Santa Clara, CA, USA
+  date: February 24-26, 2026
+  start: 2026-02-24
+  end: 2026-02-26
+  sub: DS
+  note: "Fall deadline"
 
 - title: DAC
   year: 2025
@@ -54,7 +68,6 @@
   date: June 22-25, 2025
   start: 2025-06-22
   end: 2025-06-25
-  hindex: 38
   sub: DS
   note: "Official info at <a href='https://www.dac.com/'>dac.com</a>"
 
@@ -62,6 +75,7 @@
   year: 2025
   id: hpca25
   link: https://hpca-conf.org/
+  full_name: IEEE International Symposium on High-Performance Computer Architecture
   deadline: '2024-08-02 23:59:59'
   abstract_deadline: '2024-07-26 23:59:59'
   timezone: UTC-12
@@ -69,7 +83,6 @@
   date: March 01-05, 2025
   start: 2025-03-01
   end: 2025-03-05
-  hindex: 50
   sub: DS
   note: "Official info at <a href='https://hpca-conf.org/'>hpca-conf.org</a>"
 
@@ -77,6 +90,7 @@
   year: 2025
   id: micro25
   link: https://microarch.org/
+  full_name: IEEE/ACM International Symposium on Microarchitecture
   deadline: '2025-04-11 23:59:59'
   abstract_deadline: '2025-04-04 23:59:59'
   timezone: UTC-12
@@ -84,7 +98,6 @@
   date: October 18-22, 2025
   start: 2025-10-18
   end: 2025-10-22
-  hindex: 61
   sub: DS
   note: "Official info at <a href='https://microarch.org/'>microarch.org</a>"
 
@@ -92,6 +105,7 @@
   year: 2025
   id: sc25
   link: https://sc25.supercomputing.org/
+  full_name: International Conference for High Performance Computing, Networking, Storage, and Analysis
   deadline: '2025-04-07 23:59:59'
   abstract_deadline: '2024-04-07 23:59:59'
   timezone: UTC-12
@@ -99,7 +113,6 @@
   date: November 16-21, 2025
   start: 2025-11-16
   end: 2025-11-21
-  hindex: 50
   sub: DS
   note: "Official info at <a href='https://sc25.supercomputing.org/'>supercomputing.org</a>"
 
@@ -107,6 +120,7 @@
   year: 2025
   id: asplos25
   link: https://asplos-conference.org/
+  full_name: International Conference on Architectural Support for Programming Languages and Operating Systems
   deadline: '2024-10-18 23:59:59'
   abstract_deadline: '2024-10-11 23:59:59'
   timezone: UTC-12
@@ -114,7 +128,6 @@
   date: March 30-April 03, 2025
   start: 2025-03-30
   end: 2025-04-03
-  hindex: 71
   sub: DS
   note: "Official info at <a href='https://asplos-conference.org/'>asplos-conference.org</a>"
 
@@ -129,7 +142,6 @@
   date: June 21-25, 2025
   start: 2025-06-21
   end: 2025-06-25
-  hindex: 62
   sub: DS
   note: "Official info at <a href='https://iscaconf.org/'>iscaconf.org</a>"
 
@@ -137,6 +149,7 @@
   year: 2025
   id: usenixatc25
   link: https://www.usenix.org/conference/atc25
+  full_name: 2025 USENIX Annual Technical Conference
   deadline: '2025-01-14 23:59:59'
   abstract_deadline: '2025-01-07 23:59:59'
   timezone: UTC-12
@@ -144,74 +157,114 @@
   date: July 07-09, 2025
   start: 2025-07-07
   end: 2025-07-09
-  hindex: 55
   sub: DS
   note: "Official info at <a href='https://www.usenix.org/conference/atc25'>usenix.org/conference/atc25</a>"
 
 - title: EuroSys
-  year: 2025
-  id: eurosys25
-  link: https://www.eurosys.org/
-  deadline: '2024-10-22 23:59:59'
-  abstract_deadline: '2024-10-15 23:59:59'
+  year: 2026
+  id: eurosys26-spring
+  link: https://2026.eurosys.org/
+  abstract_deadline: '2025-05-08 23:59:59'
+  deadline: '2025-05-15 23:59:59'
   timezone: UTC-12
-  place: Rotterdam, The Netherlands
-  date: March 30-April 03, 2025
-  start: 2025-03-30
-  end: 2025-04-03
-  hindex: 48
+  place: Edinburgh, UK
+  date: April 13-16, 2026
+  start: 2026-04-13
+  end: 2026-04-16
   sub: DS
-  note: "Official info at <a href='https://www.eurosys.org/'>eurosys.org</a>"
+  note: "Spring deadline"
+
+- title: EuroSys
+  year: 2026
+  id: eurosys26-fall
+  link: https://2026.eurosys.org/
+  abstract_deadline: '2025-09-18 23:59:59'
+  deadline: '2025-09-25 23:59:59'
+  timezone: UTC-12
+  place: Edinburgh, UK
+  date: April 13-16, 2026
+  start: 2026-04-13
+  end: 2026-04-16
+  sub: DS
+  note: "Fall deadline"
 
 - title: FPGA
   year: 2025
   id: fpga25
-  link: https://www.isfpga.org/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2024-10-08 23:59:59'
+  link: https://www.isfpga.org/
   abstract_deadline: '2024-10-01 23:59:59'
+  deadline: '2024-10-08 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: February 27-March 01 2025
+  place: Monterey, CA, USA
+  date: February 27 - March 1, 2025
   start: 2025-02-27
   end: 2025-03-01
-  hindex: 40
   sub: DS
   note: "More info <a href='https://www.isfpga.org/'>here</a>"
 
 - title: DATE
-  year: 2025
-  id: date25
-  link: https://date-conference.com/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2024-09-22 23:59:59'
-  abstract_deadline: '2024-09-15 23:59:59'
+  year: 2026
+  id: date26
+  link: https://date-conference.com/
+  full_name: Design, Automation and Test in Europe Conference
+  abstract_deadline: '2025-09-15 23:59:59'
+  deadline: '2025-09-22 23:59:59'
   timezone: UTC-12
-  place: Palais des congrès de Lyon, Lyon, France
-  date: March 31-April 02 2025
-  start: 2025-03-31
-  end: 2025-04-02
-  hindex: 46
+  place: Verona, Italy
+  date: April 20-22, 2026
+  start: 2026-04-20
+  end: 2026-04-22
   sub: DS
   note: "More info <a href='https://date-conference.com/'>here</a>"
+
+- title: CGO
+  year: 2026
+  id: cgo26-first
+  link: https://2026.cgo.org
+  full_name: International Symposium on Code Generation and Optimization
+  deadline: '2025-05-29 23:59:59'
+  timezone: UTC-12
+  place: Sydney, Australia
+  date: TBD
+  start: 2026-04-20
+  end: 2026-04-22
+  sub: DS
+  note: "First deadline"
+
+- title: CGO
+  year: 2026
+  id: cgo26-first
+  link: https://2026.cgo.org
+  full_name: International Symposium on Code Generation and Optimization
+  deadline: '2025-09-11 23:59:59'
+  timezone: UTC-12
+  place: Sydney, Australia
+  date: TBD
+  start: 2026-04-20
+  end: 2026-04-22
+  sub: DS
+  note: "First deadline"
 
 - title: ICCD
   year: 2025
   id: iccd25
-  link: https://www.iccd-conf.com/  # Changed to official website if known, otherwise left as TBD
-  deadline: '2025-05-11 23:59:59'
+  link: https://www.iccd-conf.com/
+  full_name: IEEE International Conference on Computer Design
   abstract_deadline: '2025-05-04 23:59:59'
+  deadline: '2025-05-11 23:59:59'
   timezone: UTC-12
   place: Dallas, USA
   date: November 10-12 2025
   start: 2025-11-10
   end: 2025-11-12
-  hindex: 21
   sub: DS
   note: "More info <a href='https://www.iccd-conf.com/'>here</a>"
 
 - title: ICCAD
   year: 2025
   id: iccad25
-  link: https://iccad.com/  # Changed to official website if known, otherwise left as TBD
+  link: https://iccad.com/
+  full_name: IEEE/ACM International Conference on Computer-Aided Design
   deadline: '2025-04-21 23:59:59'
   abstract_deadline: '2025-04-14 23:59:59'
   timezone: UTC-12
@@ -219,6 +272,5 @@
   date: October 26-30 2025
   start: 2025-10-26
   end: 2025-10-30
-  hindex: 41
   sub: DS
   note: "Abstract deadline on April 14, 2025. More info <a href='https://iccad.com/'>here</a>"
