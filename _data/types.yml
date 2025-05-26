@@ -2,30 +2,30 @@
 - name: Computer Architecture/Parallel Programming/Storage Technology
   sub: DS
   color: '#3498db'  # Blue
-- name: Network System
-  sub: NW
-  color: '#e74c3c'  # Red
+# - name: Network System
+#   sub: NW
+#   color: '#e74c3c'  # Red
 - name: Network and System Security
   sub: SC
   color: '#2ecc71'  # Green
-- name: Software Engineering/Operating System/Programming Language Design
-  sub: SE
-  color: '#f39c12'  # Orange
-- name: Database/Data Mining/Information Retrieval
-  sub: DB
-  color: '#9b59b6'  # Purple
-- name: Computing Theory
-  sub: CT
-  color: '#1abc9c'  # Teal
-- name: Graphics
-  sub: CG
-  color: '#34495e'  # Dark Blue
+# - name: Software Engineering/Operating System/Programming Language Design
+#   sub: SE
+#   color: '#f39c12'  # Orange
+# - name: Database/Data Mining/Information Retrieval
+#   sub: DB
+#   color: '#9b59b6'  # Purple
+# - name: Computing Theory
+#   sub: CT
+#   color: '#1abc9c'  # Teal
+# - name: Graphics
+#   sub: CG
+#   color: '#34495e'  # Dark Blue
 - name: Artificial Intelligence
   sub: AI
   color: '#e67e22'  # Amber
-- name: Computer-Human Interaction
-  sub: HI
-  color: '#16a085'  # Green-Teal
-- name: Interdiscipline/Mixture/Emerging
-  sub: MX
-  color: '#8e44ad'  # Violet
+# - name: Computer-Human Interaction
+#   sub: HI
+#   color: '#16a085'  # Green-Teal
+# - name: Interdiscipline/Mixture/Emerging
+#   sub: MX
+#   color: '#8e44ad'  # Violet
